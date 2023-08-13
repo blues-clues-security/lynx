@@ -1,0 +1,102 @@
+# Articles
+
+## ChatGPT
+https://agentgpt.reworkd.ai/
+https://chatgptsplitter.com/
+
+## ATTCK Flow
+https://center-for-threat-informed-defense.github.io/attack-flow/ui/
+https://center-for-threat-informed-defense.github.io/attack-flow/ui/?src=..%2fcorpus%2fCISA%20AA22-138B%20VMWare%20Workspace%20%28Alt%29.afb
+https://center-for-threat-informed-defense.github.io/attack-flow/visualization/
+https://github.com/center-for-threat-informed-defense/attack-flow
+https://center-for-threat-informed-defense.github.io/attack-flow/example_flows/
+https://attack.mitre.org/tactics/TA0007/
+https://center-for-threat-informed-defense.github.io/attack-flow/corpus/CISA%20Iranian%20APT.dot.png
+
+## Threat Reporting/CTI
+https://medium.com/mitre-engenuity/elevate-your-threat-intel-reports-with-cti-blueprints-b0d3b63174dc
+https://blog.filigran.io/opencti-case-management-is-ready-for-takeoff-what-is-available-and-whats-next-23f44cc7aa70
+https://medium.com/mitre-engenuity/2023-r-d-roadmap-to-advance-threat-informed-defense-cf726d30e583
+https://thedfirreport.com/services/
+
+
+## SpecterOps
+https://posts.specterops.io/hacking-with-your-nemesis-7861f75fcab4
+https://posts.specterops.io/bloodhound-enterprise-learns-some-new-tricks-26f0fa89e1d1
+https://posts.specterops.io/site-takeover-via-sccms-adminservice-api-d932e22b2bf
+https://posts.specterops.io/ready-to-hunt-first-show-me-your-data-a642c6b170d6
+
+## Threat Detection/ Detection Engineering
+https://medium.com/anton-on-security/on-threat-detection-uncertainty-7eac9b22adb6
+https://detect.fyi/rats-race-detecting-remote-access-tools-beyond-pattern-based-indicators-5c864b171892
+
+### Detection as Code
+https://medium.com/threatpunter/from-soup-to-nuts-building-a-detection-as-code-pipeline-59b96c875ca1
+
+## New Defensive Tools
+https://medium.com/@wenray/rita-dns-tunneling-detection-9e0267ea1ebf
+
+## Home Labs
+https://medium.com/@liam.stott/building-a-cyber-security-lab-694a386ccb7b
+https://facyber.me/posts/blue-team-lab-guide-part-1/
+https://aruva.medium.com/tackling-docker-network-configuration-issues-a-step-by-step-guide-9b2f7a9c6d33
+
+
+## Unlabeled
+https://medium.com/@gary.j.katz/detection-engineering-metrics-building-blocks-97be4bccf27b
+https://medium.com/@paralloid/from-chaos-to-clarity-how-daily-notes-help-you-stay-focused-7d547bf08e79
+https://posts.specterops.io/
+https://ateixei.medium.com/a-research-driven-process-applied-to-threat-detection-engineering-inputs-1b7e6fe0412b
+https://medium.com/@mkdemir1/open-cyber-threat-intelligence-platform-opencti-cb1986f06122
+https://infosecwriteups.com/implementing-mitre-d3fend-for-att-ck-technique-t1059-command-and-scripting-interpreter-35e3570a1c2d
+https://cyberwardog.blogspot.com/2017/12/ready-to-hunt-first-show-me-your-data.html
+https://posts.specterops.io/thoughts-on-host-based-detection-techniques-21d9c97082ce
+https://medium.com/starting-up-security/lessons-learned-in-detection-engineering-304aec709856
+https://posts.specterops.io/detection-spectrum-198a0bfb9302
+https://posts.specterops.io/introducing-the-funnel-of-fidelity-b1bb59b04036
+https://blog.palantir.com/alerting-and-detection-strategy-framework-52dc33722df2
+https://betterhumans.pub/zettelkastens-3-note-taking-levels-help-you-harvest-your-thoughts-58326840f969
+https://posts.specterops.io/on-detection-tactical-to-function-810c14798f63
+https://ateixei.medium.com/the-dotted-lines-between-threat-hunting-and-detection-engineering-94fa0f7f62ce
+https://kostas-ts.medium.com/threat-hunting-series-detection-engineering-vs-threat-hunting-f12f3a72185f
+https://dan-sherman.medium.com/diagrams-as-code-because-aint-nobody-got-time-for-that-3788567cb5ae
+https://posts.specterops.io/on-detection-tactical-to-functional-37ddcd75234b
+https://socfortress.medium.com/adversary-emulations-using-mitre-caldera-and-wazuh-edr-part-ii-discovery-a1f514020480
+https://posts.bluraven.io/hunting-for-lateral-movement-local-accounts-bc08742f3d83
+https://medium.com/threatpunter/from-soup-to-nuts-building-a-detection-as-code-pipeline-28945015fc38
+https://github.com/threat-punter/detection-as-code-example
+https://www.tines.com/
+https://medium.com/@peritomadruga/how-to-implement-the-mitre-att-ck-framework-in-blue-team-operations-31e23093122d
+https://medium.com/@simone.kraus/holistic-threat-modeling-669aaf06b2da
+https://medium.com/@emhedge/homelab-learning-building-a-security-operations-center-with-splunk-fe4f2cfd534e
+https://blog.brainboard.co/the-10-best-security-sites-on-the-net-16fd3a8234c0
+https://posts.specterops.io/thoughts-on-detection-3c5cab66f511
+https://medium.com/starting-up-security/lessons-learned-in-detection-engineering-304aec709856
+https://ilro.medium.com/a-step-by-step-guide-on-taking-smart-notes-using-the-zettelkasten-methodology-using-obsidian-67a3235c5e0e
+https://arinbasu.medium.com/how-to-build-niklas-luhmann-style-zettelkasten-system-with-logseq-and-curvenote-5381a69299be
+https://medium.com/@pdevsecops/50-threat-modeling-interview-questions-for-2023-afd29ddf7252
+https://medium.com/@trout.software/understanding-playbooks-in-cyber-security-2afc93ff8029
+https://medium.com/my-learning-journal/microsoft-loop-is-finally-open-to-the-public-can-it-beat-notion-though-f77dc06cafa9
+https://medium.com/mitre-attack/2023-attack-roadmap-452fab541673
+https://medium.com/@ibederov_en/top-of-my-free-osint-tools-in-2023-bacb9be70d9
+https://tales-from-a-security-professional.com/elasticsiem-is-it-worth-the-hassle-and-can-it-provide-value-9d9d2aec29b9
+https://medium.com/@gary.j.katz/detection-engineering-metrics-building-blocks-97be4bccf27b
+https://medium.com/@paralloid/from-chaos-to-clarity-how-daily-notes-help-you-stay-focused-7d547bf08e79
+https://posts.specterops.io/
+https://ateixei.medium.com/a-research-driven-process-applied-to-threat-detection-engineering-inputs-1b7e6fe0412b
+https://medium.com/@mkdemir1/open-cyber-threat-intelligence-platform-opencti-cb1986f06122
+https://infosecwriteups.com/implementing-mitre-d3fend-for-att-ck-technique-t1059-command-and-scripting-interpreter-35e3570a1c2d
+https://medium.com/starting-up-security/lessons-learned-in-detection-engineering-304aec709856
+https://cyberwardog.blogspot.com/2017/12/ready-to-hunt-first-show-me-your-data.html
+https://posts.specterops.io/thoughts-on-host-based-detection-techniques-21d9c97082ce
+https://posts.specterops.io/detection-spectrum-198a0bfb9302
+https://posts.specterops.io/introducing-the-funnel-of-fidelity-b1bb59b04036
+https://blog.palantir.com/alerting-and-detection-strategy-framework-52dc33722df2
+https://betterhumans.pub/zettelkastens-3-note-taking-levels-help-you-harvest-your-thoughts-58326840f969
+https://posts.specterops.io/on-detection-tactical-to-function-810c14798f63
+https://ateixei.medium.com/the-dotted-lines-between-threat-hunting-and-detection-engineering-94fa0f7f62ce
+https://kostas-ts.medium.com/threat-hunting-series-detection-engineering-vs-threat-hunting-f12f3a72185f
+https://dan-sherman.medium.com/diagrams-as-code-because-aint-nobody-got-time-for-that-3788567cb5ae
+https://posts.specterops.io/on-detection-tactical-to-functional-37ddcd75234b
+https://medium.com/obsidian-observer/from-paper-to-pixel-mastering-the-cornell-note-taking-method-in-the-digital-age-dae13ed83c29
+https://posts.bluraven.io/detecting-dll-hijacking-attacks-part-1-bdb354685164
