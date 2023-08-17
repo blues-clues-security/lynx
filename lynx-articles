@@ -18,6 +18,14 @@ https://medium.com/mitre-engenuity/elevate-your-threat-intel-reports-with-cti-bl
 https://blog.filigran.io/opencti-case-management-is-ready-for-takeoff-what-is-available-and-whats-next-23f44cc7aa70
 https://medium.com/mitre-engenuity/2023-r-d-roadmap-to-advance-threat-informed-defense-cf726d30e583
 https://thedfirreport.com/services/
+https://medium.com/mitre-engenuity/att-ck-sync-a-tool-for-keeping-current-with-mitre-att-ck-1a4fe385ca5c
+https://medium.com/@yanadurb/best-threat-intelligence-resources-to-follow-and-add-to-your-rss-feed-505263ceb72e
+https://warnerchad.medium.com/cyber-threat-intelligence-learning-resources-5cf00f9fe6c5
+https://www.mandiant.com/sites/default/files/2022-05/cti-analyst-core-competencies-framework-v1.pdf
+https://www.practical-devsecops.com/best-thre%d0%b0t-mod%d0%b5ling-tools/
+https://www.practical-devsecops.com/types-of-threat-modeling-methodology/
+https://www.practical-devsecops.com/what-is-stride-threat-model/
+https://www.practical-devsecops.com/dread-threat-modeling/
 
 
 ## SpecterOps
@@ -25,24 +33,42 @@ https://posts.specterops.io/hacking-with-your-nemesis-7861f75fcab4
 https://posts.specterops.io/bloodhound-enterprise-learns-some-new-tricks-26f0fa89e1d1
 https://posts.specterops.io/site-takeover-via-sccms-adminservice-api-d932e22b2bf
 https://posts.specterops.io/ready-to-hunt-first-show-me-your-data-a642c6b170d6
+https://medium.com/specter-ops-posts/on-detection-from-tactical-to-functional-1349e51e1a03
 
 ## Threat Detection/ Detection Engineering
 https://medium.com/anton-on-security/on-threat-detection-uncertainty-7eac9b22adb6
 https://detect.fyi/rats-race-detecting-remote-access-tools-beyond-pattern-based-indicators-5c864b171892
+https://maciejszymczyk.medium.com/efficient-siem-and-detection-engineering-in-10-steps-c82402a70dbd
+https://izyknows.medium.com/linux-auditd-for-threat-detection-final-9d5173706b3f
+
+## Writing/ Notetaking/ Knowledge Management
+https://writingcooperative.com/how-to-make-a-difference-with-your-writing-43ea7aacfb13
+https://medium.com/@hussain_khan/my-first-knowledge-management-system-failed-heres-what-i-learned-ef6de439ff0f
 
 ### Detection as Code
 https://medium.com/threatpunter/from-soup-to-nuts-building-a-detection-as-code-pipeline-59b96c875ca1
 
 ## New Defensive Tools
 https://medium.com/@wenray/rita-dns-tunneling-detection-9e0267ea1ebf
+https://github.com/facebookincubator/TTPForge#getting-started-as-a-user
+
+## Data Science
+https://davidsj.substack.com/p/semantic-superiority-part-1?ref=blog.count.co
+https://towardsdatascience.com/dashboards-are-dead-3-years-later-72347757bfa6
 
 ## Home Labs
 https://medium.com/@liam.stott/building-a-cyber-security-lab-694a386ccb7b
 https://facyber.me/posts/blue-team-lab-guide-part-1/
 https://aruva.medium.com/tackling-docker-network-configuration-issues-a-step-by-step-guide-9b2f7a9c6d33
+https://medium.com/@s.gilgeours11/my-first-soc-analyst-home-lab-73f59feff8f
+https://medium.com/@tony.m.elkins/building-a-home-lab-edr-57469368f8de
 
+
+## Bug Bounty
+https://github.com/vavkamil/awesome-bugbounty-tools
 
 ## Unlabeled
+https://adamgoss.medium.com/how-to-build-the-ultimate-enterprise-ready-incident-response-playbook-5a0c2a073a9f
 https://medium.com/@gary.j.katz/detection-engineering-metrics-building-blocks-97be4bccf27b
 https://medium.com/@paralloid/from-chaos-to-clarity-how-daily-notes-help-you-stay-focused-7d547bf08e79
 https://posts.specterops.io/
