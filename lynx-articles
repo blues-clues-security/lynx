@@ -26,6 +26,7 @@ https://www.practical-devsecops.com/best-thre%d0%b0t-mod%d0%b5ling-tools/
 https://www.practical-devsecops.com/types-of-threat-modeling-methodology/
 https://www.practical-devsecops.com/what-is-stride-threat-model/
 https://www.practical-devsecops.com/dread-threat-modeling/
+https://adamgoss.medium.com/threat-intelligence-vs-threat-hunting-what-is-the-perfect-pipeline-97507d16b248
 
 
 ## SpecterOps
@@ -40,10 +41,12 @@ https://medium.com/anton-on-security/on-threat-detection-uncertainty-7eac9b22adb
 https://detect.fyi/rats-race-detecting-remote-access-tools-beyond-pattern-based-indicators-5c864b171892
 https://maciejszymczyk.medium.com/efficient-siem-and-detection-engineering-in-10-steps-c82402a70dbd
 https://izyknows.medium.com/linux-auditd-for-threat-detection-final-9d5173706b3f
+https://medium.com/anton-on-security/why-is-threat-detection-hard-42aa479a197f
 
 ## Writing/ Notetaking/ Knowledge Management
 https://writingcooperative.com/how-to-make-a-difference-with-your-writing-43ea7aacfb13
 https://medium.com/@hussain_khan/my-first-knowledge-management-system-failed-heres-what-i-learned-ef6de439ff0f
+https://medium.com/@dandelionmind/why-im-switching-from-obsidian-to-capacities-359f3b561371
 
 ### Detection as Code
 https://medium.com/threatpunter/from-soup-to-nuts-building-a-detection-as-code-pipeline-59b96c875ca1
