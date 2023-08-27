@@ -12,6 +12,8 @@ https://github.com/center-for-threat-informed-defense/attack-flow
 https://center-for-threat-informed-defense.github.io/attack-flow/example_flows/
 https://attack.mitre.org/tactics/TA0007/
 https://center-for-threat-informed-defense.github.io/attack-flow/corpus/CISA%20Iranian%20APT.dot.png
+https://ibrahimakkdag.medium.com/5-ways-to-apply-the-mitre-att-ck-framework-6b17820cb675
+https://systemweakness.com/analyzing-and-visualizing-cyberattacks-using-attack-flow-4ccad73c1e8a
 
 ## Threat Reporting/CTI
 https://medium.com/mitre-engenuity/elevate-your-threat-intel-reports-with-cti-blueprints-b0d3b63174dc
@@ -27,6 +29,8 @@ https://www.practical-devsecops.com/types-of-threat-modeling-methodology/
 https://www.practical-devsecops.com/what-is-stride-threat-model/
 https://www.practical-devsecops.com/dread-threat-modeling/
 https://adamgoss.medium.com/threat-intelligence-vs-threat-hunting-what-is-the-perfect-pipeline-97507d16b248
+https://medium.com/@yanadurb/best-threat-intelligence-resources-to-follow-and-add-to-your-rss-feed-505263ceb72e
+
 
 
 ## SpecterOps
@@ -35,6 +39,7 @@ https://posts.specterops.io/bloodhound-enterprise-learns-some-new-tricks-26f0fa8
 https://posts.specterops.io/site-takeover-via-sccms-adminservice-api-d932e22b2bf
 https://posts.specterops.io/ready-to-hunt-first-show-me-your-data-a642c6b170d6
 https://medium.com/specter-ops-posts/on-detection-from-tactical-to-functional-1349e51e1a03
+https://posts.specterops.io/the-defenders-guide-to-the-windows-registry-febe241abc75
 
 ## Threat Detection/ Detection Engineering
 https://medium.com/anton-on-security/on-threat-detection-uncertainty-7eac9b22adb6
@@ -42,18 +47,38 @@ https://detect.fyi/rats-race-detecting-remote-access-tools-beyond-pattern-based-
 https://maciejszymczyk.medium.com/efficient-siem-and-detection-engineering-in-10-steps-c82402a70dbd
 https://izyknows.medium.com/linux-auditd-for-threat-detection-final-9d5173706b3f
 https://medium.com/anton-on-security/why-is-threat-detection-hard-42aa479a197f
+https://detect.fyi/detecting-psexec-and-similar-tools-c812bf3dca6c
+https://posts.specterops.io/abstracting-scheduled-tasks-3b6451f6a1c5
+https://medium.com/@gary.j.katz/quantifying-detection-coverage-with-validation-7871894136c3
+https://medium.com/@gary.j.katz/detection-engineering-metrics-building-blocks-97be4bccf27b
+https://cyb3rops.medium.com/about-detection-engineering-44d39e0755f0
+https://posts.specterops.io/engineering-process-injection-detections-part-1-research-951e96ad3c85
+https://github.com/cybersheepdog/Threat-Hunting-Metrics
+https://tales-from-a-security-professional.com/designing-the-perfect-incident-response-playbook-fd0ea6c400a0
+https://adamgoss.medium.com/how-to-build-the-ultimate-enterprise-ready-incident-response-playbook-5a0c2a073a9f
+https://medium.com/@gary.j.katz/the-limitations-of-mean-time-to-detect-b4dbacdb9078
+https://detect.fyi/a-research-driven-process-applied-to-threat-detection-engineering-inputs-1b7e6fe0412b
+https://medium.com/anton-on-security/how-to-make-threat-detection-better-c38f1758b842
+https://medium.com/@gary.j.katz/measuring-detection-volatility-f2a2d51fdaa6
+https://izyknows.medium.com/linux-auditd-for-threat-detection-final-9d5173706b3f
+https://kostas-ts.medium.com/threat-hunting-metrics-the-good-the-bad-and-the-ugly-d662907379b2
+https://maciejszymczyk.medium.com/efficient-siem-and-detection-engineering-in-10-steps-c82402a70dbd
 
 ## Writing/ Notetaking/ Knowledge Management
 https://writingcooperative.com/how-to-make-a-difference-with-your-writing-43ea7aacfb13
 https://medium.com/@hussain_khan/my-first-knowledge-management-system-failed-heres-what-i-learned-ef6de439ff0f
 https://medium.com/@dandelionmind/why-im-switching-from-obsidian-to-capacities-359f3b561371
+https://medium.com/twosapp/how-i-organize-everything-in-my-life-in-one-app-spoiler-alert-its-not-notion-76c7be61a834
 
 ### Detection as Code
 https://medium.com/threatpunter/from-soup-to-nuts-building-a-detection-as-code-pipeline-59b96c875ca1
 
-## New Defensive Tools
+## Tools
 https://medium.com/@wenray/rita-dns-tunneling-detection-9e0267ea1ebf
 https://github.com/facebookincubator/TTPForge#getting-started-as-a-user
+https://vishnushivalalp.medium.com/tools-for-cyber-threat-hunting-part-i-408806de888e
+https://medium.com/sigma-hq/sigma-rule-repository-enhancements-new-folder-structure-rule-types-30adb70f5e10
+https://osintteam.blog/15-tools-you-should-know-as-a-security-analyst-f95007e94d99
 
 ## Data Science
 https://davidsj.substack.com/p/semantic-superiority-part-1?ref=blog.count.co
@@ -65,7 +90,12 @@ https://facyber.me/posts/blue-team-lab-guide-part-1/
 https://aruva.medium.com/tackling-docker-network-configuration-issues-a-step-by-step-guide-9b2f7a9c6d33
 https://medium.com/@s.gilgeours11/my-first-soc-analyst-home-lab-73f59feff8f
 https://medium.com/@tony.m.elkins/building-a-home-lab-edr-57469368f8de
+https://medium.com/@enyel.salas84/project-microsoft-sentinel-lab-f2dc3477371b
+https://medium.com/@itdanny/security-onion-part-1-installation-on-vmware-69201cf4eef8
+https://medium.com/@lsepaolo/portable-siem-for-incident-response-with-elastic-4581d72c08bf
 
+## Diagrams as Code
+http://mermaid.js.org/syntax/sequenceDiagram.html
 
 ## Bug Bounty
 https://github.com/vavkamil/awesome-bugbounty-tools
