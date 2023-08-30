@@ -1,5 +1,6 @@
 import re
 import requests
+import os
 from bs4 import BeautifulSoup
 
 def fetch_title(url):
@@ -20,10 +21,15 @@ def transform_hyperlinks_in_md(file_path):
         content = file.read()
 
     # Regular expression to find URLs
-    url_pattern = re.compile(r'http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\\(\\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+')
+    url_pattern = re.compile(r'^http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\\(\\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+', re.MULTILINE)
 
     urls = set(re.findall(url_pattern, content))
+    print(f'Links being updated: {len(urls)}')
     
+    if len(urls) == 0:
+        print('No links being changed, exiting')
+        os._exit(1)
+
     # Fetch titles and replace URLs
     for url in urls:
         title = fetch_title(url)
@@ -34,6 +40,6 @@ def transform_hyperlinks_in_md(file_path):
         file.write(content)
 
 if __name__ == '__main__':
-    file_path = input("Enter the path to your markdown file: ").strip()
+    file_path = 'lynx-articles.md'
     transform_hyperlinks_in_md(file_path)
     print("Hyperlinks transformed successfully.")
