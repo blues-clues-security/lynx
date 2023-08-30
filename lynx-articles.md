@@ -91,7 +91,7 @@
 - [TOOLS FOR CYBER THREAT HUNTING (PART - I) | by Vishnu Shivalal P](https://vishnushivalalp.medium.com/tools-for-cyber-threat-hunting-part-i-408806de888e)
 - [Sigma Rule Repository Enhancements— New Folder Structure & Rule Types | by Nasreddine Bencherchali](https://medium.com/sigma-hq/sigma-rule-repository-enhancements-new-folder-structure-rule-types-30adb70f5e10)
 - [15 tools you should know as a Security Analyst | by D.Haddad ](https://osintteam.blog/15-tools-you-should-know-as-a-security-analyst-f95007e94d99)
-- [Posts By SpecterOps Team Members](https://posts.specterops.io/)putting-sysmon-v9-0-and-or-grouping-logic-to-the-test-c3ec27263df8
+- [Putting Sysmon v9.0 AND/OR Grouping Logic to the Test | by Roberto Rodriguez](https://posts.specterops.io/putting-sysmon-v9-0-and-or-grouping-logic-to-the-test-c3ec27263df8)
 
 ## Data Science
 - [Semantic Superiority - Part 1 - by David Jayatillake](https://davidsj.substack.com/p/semantic-superiority-part-1?ref=blog.count.co)
