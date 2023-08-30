@@ -1,0 +1,173 @@
+# ArticlesAgentGPT
+
+## ChatGPT
+- [AgentGPT](https://agentgpt.reworkd.ai/)
+- [ChatGPT Splitter - Split and Load Large Documents to ChatGPT](https://chatgptsplitter.com/)
+
+## ATTCK Flow
+- [attack-flow-builder](https://center-for-threat-informed-defense.github.io/attack-flow/ui/)
+- [Example: attack-flow-builder](https://center-for-threat-informed-defense.github.io/attack-flow/ui/?src=..%2fcorpus%2fCISA%20AA22-138B%20VMWare%20Workspace%20%28Alt%29.afb)
+- [Visualization — Attack Flow v2.0.1 documentation](https://center-for-threat-informed-defense.github.io/attack-flow/visualization/)
+- [GitHub - center-for-threat-informed-defense/attack-flow](https://github.com/center-for-threat-informed-defense/attack-flow)
+- [Example Flows — Attack Flow v2.0.1 documentation](https://center-for-threat-informed-defense.github.io/attack-flow/example_flows/)
+- [Discovery, Tactic TA0007 - Enterprise | MITRE ATT&CK®](https://attack.mitre.org/tactics/TA0007/)
+- [Example: CISA Iranian APT](https://center-for-threat-informed-defense.github.io/attack-flow/corpus/CISA%20Iranian%20APT.dot.png)
+- [5 Ways to Apply the MITRE ATT&CK Framework | by Ibrahim Akdağ| Ph.D.](https://ibrahimakkdag.medium.com/5-ways-to-apply-the-mitre-att-ck-framework-6b17820cb675)
+- [Analyzing and visualizing cyberattacks using Attack Flow | by Lennart Erikson | Jul, 2023 | System Weakness](https://systemweakness.com/analyzing-and-visualizing-cyberattacks-using-attack-flow-4ccad73c1e8a)
+- [Three ways to use the ATT&CK Navigator for threat-informed decision making — Part 1 | by Lennart Erikson | Jul, 2023](https://medium.com/@lerikson/three-ways-to-use-the-att-ck-navigator-for-threat-informed-decision-making-part-1-65c0c6004df9)
+- [https://top-attack-techniques.mitre-engenuity.org/](https://top-attack-techniques.mitre-engenuity.org/)
+
+## Threat Reporting/CTI
+- [Elevate your threat intel reports with CTI Blueprints | by Jon Baker | MITRE-Engenuity](https://medium.com/mitre-engenuity/elevate-your-threat-intel-reports-with-cti-blueprints-b0d3b63174dc)
+- [OpenCTI case management is ready for takeoff: what is available and what’s next | by Samuel Hassine | Jul, 2023 | Filigran Blog](https://blog.filigran.io/opencti-case-management-is-ready-for-takeoff-what-is-available-and-whats-next-23f44cc7aa70)
+- [2023 R&D Roadmap to Advance Threat-Informed Defense | by Jon Baker | MITRE-Engenuity](https://medium.com/mitre-engenuity/-2023-r-d-roadmap-to-advance-threat-informed-defense-cf726d30e583)
+- [https://thedfirreport.com/services/](https://thedfirreport.com/services/)
+- [ATT&CK Sync: A Tool for Keeping Current with MITRE ATT&CK® | by Jon Baker | MITRE-Engenuity](https://medium.com/mitre-engenuity/-att-ck-sync-a-tool-for-keeping-current-with-mitre-att-ck-1a4fe385ca5c)
+- [Best Threat Intelligence Resources to Follow and add to your RSS feed](https://medium.com/@yanadurb/-best-threat-intelligence-resources-to-follow-and-add-to-your-rss-feed-505263ceb72e)
+- [Cyber Threat Intelligence Learning Resources | by Chad Warner](https://warnerchad.medium.com/cyber-threat-intelligence-learning-resources-5cf00f9fe6c5)
+- [THE MANDIANT CYBER THREAT INTELLIGENCE (CTI) ANALYST CORE COMPETENCIES FRAMEWORK](https://www.mandiant.com/sites/default/files/2022-05/cti-analyst-core-competencies-framework-v1.pdf)
+- [Best Threаt Modеling Тools List in 2023  - Practical DevSecOps](https://www.practical-devsecops.com/best-thre%d0%b0t-mod%d0%b5ling-tools/)
+- [10 Types of Threat Modeling Methodology To Use in 2023 - Practical DevSecOps](https://www.practical-devsecops.com/types-of-threat-modeling-methodology/)
+- [What is STRIDE Threat Model?](https://www.practical-devsecops.com/what-is-stride-threat-model/)
+- [DREAD Threat Modeling Methodology - Practical DevSecOps](https://www.practical-devsecops.com/dread-threat-modeling/)
+- [Threat Intelligence vs Threat Hunting: What is the Perfect Pipeline? | by Adam Goss](https://adamgoss.medium.com/threat-intelligence-vs-threat-hunting-what-is-the-perfect-pipeline-97507d16b248)
+- [Best Threat Intelligence Resources to Follow and add to your RSS feed](https://medium.com/@yanadurb/best-threat-intelligence-resources-to-follow-and-add-to-your-rss-feed-505263ceb72e)
+- [Reading Mandiant M-Trends 2023. The famous Mandiant 2023 M-Trends (NOT… | by Anton Chuvakin | Anton on Security](https://medium.com/anton-on-security/reading-mandiant-m-trends-2023-f315c62c8a8b)
+- [CTI Playbooks: Cyber crime intelligence | by Robindimyan](https://robindimyan.medium.com/cti-playbooks-cyber-crime-intelligence-e9b684393d85)
+- [How to identify the top 10 ATT&CK techniques you should focus on (first) | by Lennart Erikson | Aug, 2023](https://medium.com/@lerikson/how-to-identify-the-top-10-att-ck-techniques-you-should-focus-on-first-c086da58d648)
+- [“Cyber Threat Intelligence” by Martin Lee Notes | by Chad Warner | Aug, 2023](https://warnerchad.medium.com/cyber-threat-intelligence-by-martin-lee-notes-494a028c7d74)
+
+## Threat/Malware PoCs
+- [Data Exfiltration using ICMP (and how to detect it) | by SOCFortress](https://socfortress.medium.com/data-exfiltration-using-icmp-and-how-to-detect-it-69a799cca234)
+- [GitHub - icyguider/ICMP-TransferTools: Transfer files to and from a Windows host via ICMP in restricted network environments.](https://github.com/icyguider/ICMP-TransferTools)
+- [Practical Malware Analysis & Triage | by atlas | Jul, 2023](https://medium.com/@atlas64/practical-malware-analysis-triage-a1a4aeb8db44)
+
+## SpecterOps
+- [Hacking With Your Nemesis. In the first post in this series, On… | by Will Schroeder](https://posts.specterops.io/hacking-with-your-nemesis-7861f75fcab4)
+- [BloodHound Enterprise Learns Some New Tricks | by Stephen Hinck ](https://posts.specterops.io/bloodhound-enterprise-learns-some-new-tricks-26f0fa89e1d1)
+- [Site Takeover via SCCM’s AdminService API | by Garrett Foster](https://posts.specterops.io/site-takeover-via-sccms-adminservice-api-d932e22b2bf)
+- [Ready to hunt? First, Show me your data!](https://posts.specterops.io/ready-to-hunt-first-show-me-your-data-a642c6b170d6)
+- [On Detection: From Tactical to Functional | by Jared Atkinson](https://medium.com/specter-ops-posts/on-detection-from-tactical-to-functional-1349e51e1a03)
+- [The Defender’s Guide to the Windows Registry](https://posts.specterops.io/the-defenders-guide-to-the-windows-registry-febe241abc75)
+
+## Threat Detection/ Detection Engineering
+- [On Threat Detection Uncertainty. My post “Why is Threat Detection Hard?”… | by Anton Chuvakin](https://medium.com/anton-on-security/on-threat-detection-uncertainty-7eac9b22adb6)
+- [RATs Race: Detecting remote access tools beyond pattern-based indicators | by Alex Teixeira](https://detect.fyi/rats-race-detecting-remote-access-tools-beyond-pattern-based-indicators-5c864b171892)
+- [Efficient SIEM and Detection Engineering in 10 steps | by Maciej Szymczyk](https://maciejszymczyk.medium.com/efficient-siem-and-detection-engineering-in-10-steps-c82402a70dbd)
+- [Linux auditd for Threat Detection [Final] | by IzyKnows](https://izyknows.medium.com/linux-auditd-for-threat-detection-final-9d5173706b3f)
+- [Why is Threat Detection Hard?. While creating a recent presentation, I… | by Anton Chuvakin](https://medium.com/anton-on-security/why-is-threat-detection-hard-42aa479a197f)
+- [Detecting PSEXEC and similar tools | by mthcht](https://detect.fyi/detecting-psexec-and-similar-tools-c812bf3dca6c)
+- [Abstracting Scheduled Tasks](https://posts.specterops.io/abstracting-scheduled-tasks-3b6451f6a1c5)
+- [Quantifying Detection Coverage with Validation | by Gary Katz](https://medium.com/@gary.j.katz/quantifying-detection-coverage-with-validation-7871894136c3)
+- [Detection Engineering Metrics Building Blocks | by Gary Katz](https://medium.com/@gary.j.katz/detection-engineering-metrics-building-blocks-97be4bccf27b)
+- [About Detection Engineering. In recent months I’ve noticed several… | by Florian Roth](https://cyb3rops.medium.com/about-detection-engineering-44d39e0755f0)
+- [Engineering Process Injection Detections - Part 1: Research](https://posts.specterops.io/engineering-process-injection-detections-part-1-research-951e96ad3c85)
+- [GitHub - cybersheepdog/Threat-Hunting-Metrics](https://github.com/cybersheepdog/Threat-Hunting-Metrics)
+- [Designing the perfect incident response playbook | Tales from a Security Professional](https://tales-from-a-security-professional.com/designing-the-perfect-incident-response-playbook-fd0ea6c400a0)
+- [How to Build the Ultimate Enterprise-Ready Incident Response Playbook | by Adam Goss](https://adamgoss.medium.com/how-to-build-the-ultimate-enterprise-ready-incident-response-playbook-5a0c2a073a9f)
+- [The Limitations of Mean time to Detect | by Gary Katz](https://medium.com/@gary.j.katz/the-limitations-of-mean-time-to-detect-b4dbacdb9078)
+- [A Research-Driven process applied to Threat Detection Engineering Inputs | by Alex Teixeira](https://detect.fyi/a-research-driven-process-applied-to-threat-detection-engineering-inputs-1b7e6fe0412b)
+- [How to Make Threat Detection Better? | by Anton Chuvakin](https://medium.com/anton-on-security/how-to-make-threat-detection-better-c38f1758b842)
+- [Measuring Detection Volatility. Series: Measuring the effectiveness of… | by Gary Katz](https://medium.com/@gary.j.katz/measuring-detection-volatility-f2a2d51fdaa6)
+- [Linux auditd for Threat Detection [Final] | by IzyKnows](https://izyknows.medium.com/linux-auditd-for-threat-detection-final-9d5173706b3f)
+- [Threat Hunting Metrics: The Good, The Bad and The Ugly | by Kostas](https://kostas-ts.medium.com/threat-hunting-metrics-the-good-the-bad-and-the-ugly-d662907379b2)
+- [Efficient SIEM and Detection Engineering in 10 steps | by Maciej Szymczyk](https://maciejszymczyk.medium.com/efficient-siem-and-detection-engineering-in-10-steps-c82402a70dbd)
+- [MITRE D3FEND (TM) — A knowledge graph of cybersecurity countermeasures. | by SOCFortress](https://medium.com/cyberbits/mitre-d3fend-tm-a-knowledge-graph-of-cybersecurity-countermeasures-5fe60e8ef864)
+- [The Defender’s Guide to Windows Services](https://posts.specterops.io/the-defenders-guide-to-windows-services-67c1711ecba7)
+
+## Writing/ Notetaking/ Knowledge Management
+- [How To Make A Difference With Your Writing | by Karen Banes](https://writingcooperative.com/how-to-make-a-difference-with-your-writing-43ea7aacfb13)
+- [My First Knowledge Management System Failed. Here’s What I Learned: | by HM Khan](https://medium.com/@hussain_khan/my-first-knowledge-management-system-failed-heres-what-i-learned-ef6de439ff0f)
+- [Why I’m Switching From Obsidian to Capacities | by Annette Raffan](https://medium.com/@dandelionmind/why-im-switching-from-obsidian-to-capacities-359f3b561371)
+- [How I Organize My Life in One App (not Notion) | by Parker Klein](https://medium.com/twosapp/how-i-organize-everything-in-my-life-in-one-app-spoiler-alert-its-not-notion-76c7be61a834)
+
+
+### Detection as Code
+- [From soup to nuts: Building a Detection-as-Code pipeline | by David French (@threatpunter)](https://medium.com/threatpunter/from-soup-to-nuts-building-a-detection-as-code-pipeline-59b96c875ca1)
+
+## Tools
+- [DNS Tunneling Detection — RITA. I hope everything is going well in your… | by whoami](https://medium.com/@wenray/rita-dns-tunneling-detection-9e0267ea1ebf)
+- [GitHub - facebookincubator/TTPForge: The TTPForge is a Framework created to facilitate the development, automation, and execution of Tactics, Techniques, and Procedures (TTPs)](https://github.com/facebookincubator/TTPForge#getting-started-as-a-user)
+- [TOOLS FOR CYBER THREAT HUNTING (PART - I) | by Vishnu Shivalal P](https://vishnushivalalp.medium.com/tools-for-cyber-threat-hunting-part-i-408806de888e)
+- [Sigma Rule Repository Enhancements— New Folder Structure & Rule Types | by Nasreddine Bencherchali](https://medium.com/sigma-hq/sigma-rule-repository-enhancements-new-folder-structure-rule-types-30adb70f5e10)
+- [15 tools you should know as a Security Analyst | by D.Haddad ](https://osintteam.blog/15-tools-you-should-know-as-a-security-analyst-f95007e94d99)
+- [Posts By SpecterOps Team Members](https://posts.specterops.io/)putting-sysmon-v9-0-and-or-grouping-logic-to-the-test-c3ec27263df8
+
+## Data Science
+- [Semantic Superiority - Part 1 - by David Jayatillake](https://davidsj.substack.com/p/semantic-superiority-part-1?ref=blog.count.co)
+- [Dashboards Are Dead: 3 Years Later | by Taylor Brownlow](https://towardsdatascience.com/dashboards-are-dead-3-years-later-72347757bfa6)
+
+## Home Labs
+- [Building a Cyber Security Lab. The biggest fallback in my journey so… | by Liam Stott](https://medium.com/@liam.stott/building-a-cyber-security-lab-694a386ccb7b)
+- [Building Blue Team Home Lab Part 1 - Introduction | facyber](https://facyber.me/posts/blue-team-lab-guide-part-1/)
+- [Tackling Docker Network Configuration Issues — A Step-by-Step Guide | by aruva](https://aruva.medium.com/tackling-docker-network-configuration-issues-a-step-by-step-guide-9b2f7a9c6d33)
+- [My First SOC Analyst Home Lab. Introduction | by S Gilgeours](https://medium.com/@s.gilgeours11/my-first-soc-analyst-home-lab-73f59feff8f)
+- [Blue Team Project: Building a home-lab EDR. | by Tony M Elkins](https://medium.com/@tony.m.elkins/building-a-home-lab-edr-57469368f8de)
+- [(YET TO BE FINISH )Project: Microsoft Sentinel Lab | by "CyberGuard: Malware and Vulnerabilities Analysis"](https://medium.com/@enyel.salas84/project-microsoft-sentinel-lab-f2dc3477371b)
+- [Security Onion — (Part 1) Installation on VMware | by Danny Vargas](https://medium.com/@itdanny/security-onion-part-1-installation-on-vmware-69201cf4eef8)
+- [Portable SIEM for incident response with Elastic | by Paolo](https://medium.com/@lsepaolo/portable-siem-for-incident-response-with-elastic-4581d72c08bf)
+- [Introducing: Detection Lab. Detection Lab is a collection of Packer… | by Chris Long](https://medium.com/@clong/introducing-detection-lab-61db34bed6ae)
+
+## Diagrams as Code
+- [Sequence diagrams | Mermaid](http://mermaid.js.org/syntax/sequenceDiagram.html)
+
+## Bug Bounty
+- [GitHub - vavkamil/awesome-bugbounty-tools: A curated list of various bug bounty tools](https://github.com/vavkamil/awesome-bugbounty-tools)
+
+## Exam Tips
+- [How to pass the CISSP from scratch | by Jacob Larsen](https://jacobcyber.medium.com/how-to-pass-the-cissp-from-scratch-4bf1199e30f6)
+
+## Unlabeled
+- [How to Build the Ultimate Enterprise-Ready Incident Response Playbook | by Adam Goss](https://adamgoss.medium.com/how-to-build-the-ultimate-enterprise-ready-incident-response-playbook-5a0c2a073a9f)
+- [Detection Engineering Metrics Building Blocks | by Gary Katz](https://medium.com/@gary.j.katz/detection-engineering-metrics-building-blocks-97be4bccf27b)
+- [From Chaos to Clarity: How Daily Notes Help You Stay Focused | by Denis Volkov](https://medium.com/@paralloid/from-chaos-to-clarity-how-daily-notes-help-you-stay-focused-7d547bf08e79)
+- [A Research-Driven process applied to Threat Detection Engineering Inputs | by Alex Teixeira | Detect FYI](https://ateixei.medium.com/a-research-driven-process-applied-to-threat-detection-engineering-inputs-1b7e6fe0412b)
+- [Open Cyber Threat Intelligence Platform (OpenCTI) | by Mustafa Kaan Demir](https://medium.com/@mkdemir1/open-cyber-threat-intelligence-platform-opencti-cb1986f06122)
+- [Implementing MITRE D3FEND for ATT&CK Technique T1059: Command and Scripting Interpreter | by Pierre Noujeim ](https://infosecwriteups.com/implementing-mitre-d3fend-for-att-ck-technique-t1059-command-and-scripting-interpreter-35e3570a1c2d)
+- [Cyber Wardog Lab: Ready to hunt? First, Show me your data!](https://cyberwardog.blogspot.com/2017/12/ready-to-hunt-first-show-me-your-data.html)
+- [Thoughts on Host-based Detection Techniques | by Jared Atkinson](https://posts.specterops.io/thoughts-on-host-based-detection-techniques-21d9c97082ce)
+- [Lessons Learned in Detection Engineering | by Ryan McGeehan](https://medium.com/starting-up-security/lessons-learned-in-detection-engineering-304aec709856)
+- [Detection Spectrum. Have you ever heard someone call… | by Jared Atkinson](https://posts.specterops.io/detection-spectrum-198a0bfb9302)
+- [Alerting and Detection Strategy Framework | by Palantir](https://blog.palantir.com/alerting-and-detection-strategy-framework-52dc33722df2)
+- [Zettelkasten and the difference between fleeting, literature, and permanent notes. | Better Humans](https://betterhumans.pub/zettelkastens-3-note-taking-levels-help-you-harvest-your-thoughts-58326840f969)
+- [The dotted lines between Threat Hunting and Detection Engineering | by Alex Teixeira](https://ateixei.medium.com/the-dotted-lines-between-threat-hunting-and-detection-engineering-94fa0f7f62ce)
+- [Threat Hunting Series: Detection Engineering VS Threat Hunting | by Kostas](https://kostas-ts.medium.com/threat-hunting-series-detection-engineering-vs-threat-hunting-f12f3a72185f)
+- [Diagrams as Code: Because Ain’t Nobody Got Time for That! | by Dan Sherman](https://dan-sherman.medium.com/diagrams-as-code-because-aint-nobody-got-time-for-that-3788567cb5ae)
+- [On Detection: Tactical to Functional | by Jared Atkinson](https://posts.specterops.io/on-detection-tactical-to-functional-37ddcd75234b)
+- [Adversary Emulations Using Mitre Caldera and Wazuh EDR — Part II: Discovery. | by SOCFortress](https://socfortress.medium.com/adversary-emulations-using-mitre-caldera-and-wazuh-edr-part-ii-discovery-a1f514020480)
+- [Hunting for Lateral Movement: Local Accounts | by Mehmet Ergene](https://posts.bluraven.io/hunting-for-lateral-movement-local-accounts-bc08742f3d83)
+- [From soup to nuts: Building a Detection-as-Code pipeline | by David French (@threatpunter)](https://medium.com/threatpunter/from-soup-to-nuts-building-a-detection-as-code-pipeline-28945015fc38)
+- [GitHub - threat-punter/detection-as-code-example: A POC to implement Detection-as-Code with Terraform and Sumo Logic.](https://github.com/threat-punter/detection-as-code-example)
+- [Tines | No-code automation for security teams](https://www.tines.com/)
+- [How to Implement the MITRE ATT&CK Framework in Blue Team Operations | by Perito Madruga](https://medium.com/@peritomadruga/how-to-implement-the-mitre-att-ck-framework-in-blue-team-operations-31e23093122d)
+- [Holistic Threat Modeling. This article is about an own threat… | by Simone Kraus](https://medium.com/@simone.kraus/holistic-threat-modeling-669aaf06b2da)
+- [Homelab Learning: Building a Security Operations Center with Splunk | by Evyn Hedgpeth](https://medium.com/@emhedge/homelab-learning-building-a-security-operations-center-with-splunk-fe4f2cfd534e)
+- [The 10 Best Security Sites on the Net | by Mike Tyson of the Cloud (MToC)](https://blog.brainboard.co/the-10-best-security-sites-on-the-net-16fd3a8234c0)
+- [Playing Detection with a Full Deck | by Jared Atkinson](https://posts.specterops.io/thoughts-on-detection-3c5cab66f511)
+- [Lessons Learned in Detection Engineering | by Ryan McGeehan | Starting Up Security](https://medium.com/starting-up-security/lessons-learned-in-detection-engineering-304aec709856)
+- [A Step-By-Step Guide on Taking Smart Notes Using the Zettelkasten Methodology Using Obsidian | by Ilro Lee](https://ilro.medium.com/a-step-by-step-guide-on-taking-smart-notes-using-the-zettelkasten-methodology-using-obsidian-67a3235c5e0e)
+- [How to build Niklas Luhmann style Zettelkasten system with logseq and Curvenote | by Arindam Basu](https://arinbasu.medium.com/how-to-build-niklas-luhmann-style-zettelkasten-system-with-logseq-and-curvenote-5381a69299be)
+- [50 Threat Modeling Interview Questions for 2023 | by Practical DevSecOps](https://medium.com/@pdevsecops/50-threat-modeling-interview-questions-for-2023-afd29ddf7252)
+- [Understanding Playbooks in Cyber Security ](https://medium.com/@trout.software/understanding-playbooks-in-cyber-security-2afc93ff8029)
+- [Microsoft Loop Is Finally Out! Can It Beat Notion Though? | by Shu Omi | Shu Omi’s Blog](https://medium.com/my-learning-journal/microsoft-loop-is-finally-open-to-the-public-can-it-beat-notion-though-f77dc06cafa9)
+- [2023 ATT&CK Roadmap. A Roadmap of 2023’s key efforts: From… | by Amy L. Robertson | MITRE ATT&CK®](https://medium.com/mitre-attack/2023-attack-roadmap-452fab541673)
+- [TOP of my free OSINT tools in 2023 | by Igor S. Bederov](https://medium.com/@ibederov_en/top-of-my-free-osint-tools-in-2023-bacb9be70d9)
+- [ElasticSIEM - Is it worth the hassle and can it provide value? | Tales from a Security Professional](https://tales-from-a-security-professional.com/elasticsiem-is-it-worth-the-hassle-and-can-it-provide-value-9d9d2aec29b9)
+- [Detection Engineering Metrics Building Blocks | by Gary Katz](https://medium.com/@gary.j.katz/detection-engineering-metrics-building-blocks-97be4bccf27b)
+- [From Chaos to Clarity: How Daily Notes Help You Stay Focused | by Denis Volkov](https://medium.com/@paralloid/from-chaos-to-clarity-how-daily-notes-help-you-stay-focused-7d547bf08e79)
+- [A Research-Driven process applied to Threat Detection Engineering Inputs | by Alex Teixeira | Detect FYI](https://ateixei.medium.com/a-research-driven-process-applied-to-threat-detection-engineering-inputs-1b7e6fe0412b)
+- [Open Cyber Threat Intelligence Platform (OpenCTI) | by Mustafa Kaan Demir](https://medium.com/@mkdemir1/open-cyber-threat-intelligence-platform-opencti-cb1986f06122)
+- [Implementing MITRE D3FEND for ATT&CK Technique T1059: Command and Scripting Interpreter | by Pierre Noujeim](https://infosecwriteups.com/implementing-mitre-d3fend-for-att-ck-technique-t1059-command-and-scripting-interpreter-35e3570a1c2d)
+- [Lessons Learned in Detection Engineering | by Ryan McGeehan | Starting Up Security](https://medium.com/starting-up-security/lessons-learned-in-detection-engineering-304aec709856)
+- [Cyber Wardog Lab: Ready to hunt? First, Show me your data!](https://cyberwardog.blogspot.com/2017/12/ready-to-hunt-first-show-me-your-data.html)
+- [Thoughts on Host-based Detection Techniques | by Jared Atkinson](https://posts.specterops.io/thoughts-on-host-based-detection-techniques-21d9c97082ce)
+- [Detection Spectrum. Have you ever heard someone call… | by Jared Atkinson](https://posts.specterops.io/detection-spectrum-198a0bfb9302)
+- [Introducing the Funnel of Fidelity | by Jared Atkinson](https://posts.specterops.io/introducing-the-funnel-of-fidelity-b1bb59b04036)
+- [Alerting and Detection Strategy Framework | by Palantir | Palantir Blog](https://blog.palantir.com/alerting-and-detection-strategy-framework-52dc33722df2)
+- [Zettelkasten and the difference between fleeting, literature, and permanent notes. | Better Humans](https://betterhumans.pub/zettelkastens-3-note-taking-levels-help-you-harvest-your-thoughts-58326840f969)
+- [On Detection: Tactical to Functional Part: 6 What is a Procedure? | by Jared Atkinson](https://posts.specterops.io/on-detection-tactical-to-function-810c14798f63)
+- [The dotted lines between Threat Hunting and Detection Engineering | by Alex Teixeira | Detect FYI](https://ateixei.medium.com/the-dotted-lines-between-threat-hunting-and-detection-engineering-94fa0f7f62ce)
+- [Threat Hunting Series: Detection Engineering VS Threat Hunting | by Kostas](https://kostas-ts.medium.com/threat-hunting-series-detection-engineering-vs-threat-hunting-f12f3a72185f)
+- [Diagrams as Code: Because Ain’t Nobody Got Time for That! | by Dan Sherman](https://dan-sherman.medium.com/diagrams-as-code-because-aint-nobody-got-time-for-that-3788567cb5ae)
+- [From Paper to Pixel: Mastering the Cornell Note-Taking Method in the Digital Age | by TfTHacker | Obsidian Observer](https://medium.com/obsidian-observer/from-paper-to-pixel-mastering-the-cornell-note-taking-method-in-the-digital-age-dae13ed83c29)
+- [Detecting DLL Hijacking Attacks — Part 1 | by Mehmet Ergene](https://posts.bluraven.io/detecting-dll-hijacking-attacks-part-1-bdb354685164)
