@@ -12,9 +12,9 @@
 - [Example Flows — Attack Flow v2.0.1 documentation](https://center-for-threat-informed-defense.github.io/attack-flow/example_flows/)
 - [Discovery, Tactic TA0007 - Enterprise | MITRE ATT&CK®](https://attack.mitre.org/tactics/TA0007/)
 - [Example: CISA Iranian APT](https://center-for-threat-informed-defense.github.io/attack-flow/corpus/CISA%20Iranian%20APT.dot.png)
-- [5 Ways to Apply the MITRE ATT&CK Framework | by Ibrahim Akdağ| Ph.D.](https://ibrahimakkdag.medium.com/5-ways-to-apply-the-mitre-att-ck-framework-6b17820cb675)
-- [Analyzing and visualizing cyberattacks using Attack Flow | by Lennart Erikson | Jul, 2023 | System Weakness](https://systemweakness.com/analyzing-and-visualizing-cyberattacks-using-attack-flow-4ccad73c1e8a)
-- [Three ways to use the ATT&CK Navigator for threat-informed decision making — Part 1 | by Lennart Erikson | Jul, 2023](https://medium.com/@lerikson/three-ways-to-use-the-att-ck-navigator-for-threat-informed-decision-making-part-1-65c0c6004df9)
+- [5 Ways to Apply the MITRE ATT&CK Framework | by Ibrahim Akdağ](https://ibrahimakkdag.medium.com/5-ways-to-apply-the-mitre-att-ck-framework-6b17820cb675)
+- [Analyzing and visualizing cyberattacks using Attack Flow | by Lennart Erikson](https://systemweakness.com/analyzing-and-visualizing-cyberattacks-using-attack-flow-4ccad73c1e8a)
+- [Three ways to use the ATT&CK Navigator for threat-informed decision making — Part 1 | by Lennart Erikson](https://medium.com/@lerikson/three-ways-to-use-the-att-ck-navigator-for-threat-informed-decision-making-part-1-65c0c6004df9)
 - [https://top-attack-techniques.mitre-engenuity.org/](https://top-attack-techniques.mitre-engenuity.org/)
 
 ## Threat Reporting/CTI
@@ -36,6 +36,9 @@
 - [CTI Playbooks: Cyber crime intelligence | by Robindimyan](https://robindimyan.medium.com/cti-playbooks-cyber-crime-intelligence-e9b684393d85)
 - [How to identify the top 10 ATT&CK techniques you should focus on (first) | by Lennart Erikson | Aug, 2023](https://medium.com/@lerikson/how-to-identify-the-top-10-att-ck-techniques-you-should-focus-on-first-c086da58d648)
 - [“Cyber Threat Intelligence” by Martin Lee Notes | by Chad Warner | Aug, 2023](https://warnerchad.medium.com/cyber-threat-intelligence-by-martin-lee-notes-494a028c7d74)
+[Hunting Malicious Infrastructure using JARM and HTTP Response | by Michael Koczwara](https://michaelkoczwara.medium.com/hunting-malicious-infrastructure-using-jarm-and-http-response-bb4a039d4119)
+[Threat Profiling: How to Understand Hackers and Their TTPs | by Adam Goss](https://adamgoss.medium.com/threat-profiling-how-to-understand-hackers-and-their-ttps-3bba1be6359)
+
 
 ## Threat/Malware PoCs
 - [Data Exfiltration using ICMP (and how to detect it) | by SOCFortress](https://socfortress.medium.com/data-exfiltration-using-icmp-and-how-to-detect-it-69a799cca234)
@@ -74,6 +77,33 @@
 - [Efficient SIEM and Detection Engineering in 10 steps | by Maciej Szymczyk](https://maciejszymczyk.medium.com/efficient-siem-and-detection-engineering-in-10-steps-c82402a70dbd)
 - [MITRE D3FEND (TM) — A knowledge graph of cybersecurity countermeasures. | by SOCFortress](https://medium.com/cyberbits/mitre-d3fend-tm-a-knowledge-graph-of-cybersecurity-countermeasures-5fe60e8ef864)
 - [The Defender’s Guide to Windows Services](https://posts.specterops.io/the-defenders-guide-to-windows-services-67c1711ecba7)
+[Uncovering Windows Events. Threat Intelligence ETW | by Jonathan Johnson](https://jsecurity101.medium.com/uncovering-windows-events-b4b9db7eac54)
+[The Evolution of Protected Processes Part 1 - CrowdStrike](https://www.crowdstrike.com/blog/evolution-protected-processes-part-1-pass-hash-mitigations-windows-81/)
+[Tampering with Windows Event Tracing: Background, Offense, and Defense | by Palantir](https://blog.palantir.com/tampering-with-windows-event-tracing-background-offense-and-defense-4be7ac62ac63)
+[Data Source Analysis and Dynamic Windows RE using WPP and TraceLogging | by Matt Graeber](https://posts.specterops.io/data-source-analysis-and-dynamic-windows-re-using-wpp-and-tracelogging-e465f8b653f7)
+[Understanding Telemetry: Kernel Callbacks | by Jonathan Johnson](https://jsecurity101.medium.com/understanding-telemetry-kernel-callbacks-1a97cfcb8fb3)
+
+## Personal Projects
+### RedTeamSCADA
+https://github.com/pyscada/PyScada
+https://github.com/djformby/GRFICS
+http://oscada.org/
+http://www.scadasoftware.net/scada/scadasimulator.html
+https://github.com/cmu-sei/SCADASim
+
+#### OCO
+https://openplcproject.com/ (PLC's)
+https://rapidscada.org/ (HMI)
+#### DCO
+https://openplcproject.gitlab.io/reference/scada/installing-scadabr.html (HMI)
+https://openplcproject.com/ (PLC's)
+#### TODO Need to find a PLC to communicate with one of these systems
+
+### Web PTT
+https://github.com/cmu-sei/foundry-appliance
+https://github.com/cmu-sei/crucible
+https://github.com/cmu-sei/CDAS
+
 
 ## Writing/ Notetaking/ Knowledge Management
 - [How To Make A Difference With Your Writing | by Karen Banes](https://writingcooperative.com/how-to-make-a-difference-with-your-writing-43ea7aacfb13)
@@ -93,9 +123,11 @@
 - [15 tools you should know as a Security Analyst | by D.Haddad ](https://osintteam.blog/15-tools-you-should-know-as-a-security-analyst-f95007e94d99)
 - [Putting Sysmon v9.0 AND/OR Grouping Logic to the Test | by Roberto Rodriguez](https://posts.specterops.io/putting-sysmon-v9-0-and-or-grouping-logic-to-the-test-c3ec27263df8)
 
-## Data Science
+## Data Science / Systems Design
 - [Semantic Superiority - Part 1 - by David Jayatillake](https://davidsj.substack.com/p/semantic-superiority-part-1?ref=blog.count.co)
 - [Dashboards Are Dead: 3 Years Later | by Taylor Brownlow](https://towardsdatascience.com/dashboards-are-dead-3-years-later-72347757bfa6)
+[System Design Blueprint: The Ultimate Guide | by Love Sharma | ByteByteGo System Design Alliance](https://medium.com/bytebytego-system-design-alliance/system-design-blueprint-the-ultimate-guide-e27b914bf8f1)
+[The Past, Present, and Future of Data Architecture | by Diogo Silva Santos](https://medium.com/@diogo22santos/the-past-present-and-future-of-data-architecture-bd23dea0654b)
 
 ## Home Labs
 - [Building a Cyber Security Lab. The biggest fallback in my journey so… | by Liam Stott](https://medium.com/@liam.stott/building-a-cyber-security-lab-694a386ccb7b)
