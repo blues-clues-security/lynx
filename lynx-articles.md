@@ -3,6 +3,7 @@
 ## ChatGPT
 - [AgentGPT](https://agentgpt.reworkd.ai/)
 - [ChatGPT Splitter - Split and Load Large Documents to ChatGPT](https://chatgptsplitter.com/)
+https://towardsdatascience.com/how-i-turned-my-companys-docs-into-a-searchable-database-with-openai-4f2d34bd8736
 
 ## ATTCK Flow
 - [attack-flow-builder](https://center-for-threat-informed-defense.github.io/attack-flow/ui/)
@@ -36,8 +37,12 @@
 - [CTI Playbooks: Cyber crime intelligence | by Robindimyan](https://robindimyan.medium.com/cti-playbooks-cyber-crime-intelligence-e9b684393d85)
 - [How to identify the top 10 ATT&CK techniques you should focus on (first) | by Lennart Erikson | Aug, 2023](https://medium.com/@lerikson/how-to-identify-the-top-10-att-ck-techniques-you-should-focus-on-first-c086da58d648)
 - [“Cyber Threat Intelligence” by Martin Lee Notes | by Chad Warner | Aug, 2023](https://warnerchad.medium.com/cyber-threat-intelligence-by-martin-lee-notes-494a028c7d74)
-[Hunting Malicious Infrastructure using JARM and HTTP Response | by Michael Koczwara](https://michaelkoczwara.medium.com/hunting-malicious-infrastructure-using-jarm-and-http-response-bb4a039d4119)
-[Threat Profiling: How to Understand Hackers and Their TTPs | by Adam Goss](https://adamgoss.medium.com/threat-profiling-how-to-understand-hackers-and-their-ttps-3bba1be6359)
+- [Hunting Malicious Infrastructure using JARM and HTTP Response | by Michael Koczwara](https://michaelkoczwara.medium.com/hunting-malicious-infrastructure-using-jarm-and-http-response-bb4a039d4119)
+- [Threat Profiling: How to Understand Hackers and Their TTPs | by Adam Goss](https://adamgoss.medium.com/threat-profiling-how-to-understand-hackers-and-their-ttps-3bba1be6359)
+https://github.com/center-for-threat-informed-defense/tram
+https://mad.mitre-engenuity.org/Roadmap/THDE
+https://jwennekers.github.io/2023-Threat-Report-Compilation/
+https://medium.com/mitre-engenuity/our-tram-large-language-model-automates-ttp-identification-in-cti-reports-5bc0a30d4567
 
 
 ## Threat/Malware PoCs
@@ -82,6 +87,21 @@
 [Tampering with Windows Event Tracing: Background, Offense, and Defense | by Palantir](https://blog.palantir.com/tampering-with-windows-event-tracing-background-offense-and-defense-4be7ac62ac63)
 [Data Source Analysis and Dynamic Windows RE using WPP and TraceLogging | by Matt Graeber](https://posts.specterops.io/data-source-analysis-and-dynamic-windows-re-using-wpp-and-tracelogging-e465f8b653f7)
 [Understanding Telemetry: Kernel Callbacks | by Jonathan Johnson](https://jsecurity101.medium.com/understanding-telemetry-kernel-callbacks-1a97cfcb8fb3)
+https://medium.com/@gary.j.katz/detection-engineering-metrics-building-blocks-97be4bccf27b
+https://systemweakness.com/malware-analysis-network-forensics-hawkeye-91043e39baea
+https://cyb3rops.medium.com/about-detection-engineering-44d39e0755f0
+https://kostas-ts.medium.com/threat-hunting-metrics-the-good-the-bad-and-the-ugly-d662907379b2
+https://posts.specterops.io/uncovering-the-unknowns-a47c93bb6971
+https://blog.developer.adobe.com/fast-tracking-incident-detection-with-user-and-entity-behavior-analytics-ueba-733d2b17263d
+
+## Blog Posts
+### OrbitLink
+
+### Compromise Assessments
+Title: Compromise Assessments: Threat Hunting on a Desert Island
+
+## KB's
+https://learn.microsoft.com/en-us/dotnet/framework/migration-guide/versions-and-dependencies
 
 ## Personal Projects
 ### RedTeamSCADA
@@ -97,13 +117,30 @@ https://rapidscada.org/ (HMI)
 #### DCO
 https://openplcproject.gitlab.io/reference/scada/installing-scadabr.html (HMI)
 https://openplcproject.com/ (PLC's)
-#### TODO Need to find a PLC to communicate with one of these systems
 
-### Web PTT
+### NetMap
+https://towardsdatascience.com/d3blocks-the-python-library-to-create-interactive-and-standalone-d3js-charts-3dda98ce97d4
+
+### Web PTT/ WIC Trials
 https://github.com/cmu-sei/foundry-appliance
 https://github.com/cmu-sei/crucible
 https://github.com/cmu-sei/CDAS
+https://itnext.io/pythons-sqlalchemy-3-powerful-features-you-need-to-know-433a8af565ec
+https://medium.com/@ramiromedina/like-streamlit-but-fast-enabling-low-latency-data-apps-948b95b098a2
 
+### Cyber User Simulation/WIC Trials
+https://github.com/cmu-sei/GHOSTS
+https://github.com/cmu-sei/GHOSTS-ANIMATOR
+https://github.com/cmu-sei/GHOSTS-SPECTRE
+https://github.com/cmu-sei/ghosts-cyber-range-and-exercise-simulation-tools
+https://github.com/cmu-sei/SEER
+https://github.com/cmu-sei/greybox
+https://github.com/cmu-sei/Stormbox
+https://github.com/cmu-sei/finsim
+https://github.com/cmu-sei/usersim
+
+### Orbitlink
+https://betterprogramming.pub/an-intro-to-asynchronous-programming-in-python-3-7cfa9173234
 
 ## Writing/ Notetaking/ Knowledge Management
 - [How To Make A Difference With Your Writing | by Karen Banes](https://writingcooperative.com/how-to-make-a-difference-with-your-writing-43ea7aacfb13)
@@ -122,6 +159,8 @@ https://github.com/cmu-sei/CDAS
 - [Sigma Rule Repository Enhancements— New Folder Structure & Rule Types | by Nasreddine Bencherchali](https://medium.com/sigma-hq/sigma-rule-repository-enhancements-new-folder-structure-rule-types-30adb70f5e10)
 - [15 tools you should know as a Security Analyst | by D.Haddad ](https://osintteam.blog/15-tools-you-should-know-as-a-security-analyst-f95007e94d99)
 - [Putting Sysmon v9.0 AND/OR Grouping Logic to the Test | by Roberto Rodriguez](https://posts.specterops.io/putting-sysmon-v9-0-and-or-grouping-logic-to-the-test-c3ec27263df8)
+https://systemweakness.com/incident-response-tool-chainsaw-ed1fc5775344
+https://nasbench.medium.com/understanding-detecting-c2-frameworks-babyshark-641be4595845
 
 ## Data Science / Systems Design
 - [Semantic Superiority - Part 1 - by David Jayatillake](https://davidsj.substack.com/p/semantic-superiority-part-1?ref=blog.count.co)
@@ -139,6 +178,11 @@ https://github.com/cmu-sei/CDAS
 - [Security Onion — (Part 1) Installation on VMware | by Danny Vargas](https://medium.com/@itdanny/security-onion-part-1-installation-on-vmware-69201cf4eef8)
 - [Portable SIEM for incident response with Elastic | by Paolo](https://medium.com/@lsepaolo/portable-siem-for-incident-response-with-elastic-4581d72c08bf)
 - [Introducing: Detection Lab. Detection Lab is a collection of Packer… | by Chris Long](https://medium.com/@clong/introducing-detection-lab-61db34bed6ae)
+https://medium.com/@emhedge/homelab-learning-a-general-overview-of-my-homelab-hardware-and-topology-d4ef3a7336b1
+https://medium.com/@emhedge/homelab-learning-configuring-proxmox-ve-to-host-your-cybersecurity-homelab-fda24dcb04cc
+https://medium.com/threat-hunters-forge/mordor-labs-part-3-executing-att-ck-apt29-evaluations-emulation-plan-day2-417cadc2a337
+https://enescayvarli.medium.com/purple-team-caldera-wazuh-b5dd38971e65
+
 
 ## Diagrams as Code
 - [Sequence diagrams | Mermaid](http://mermaid.js.org/syntax/sequenceDiagram.html)
