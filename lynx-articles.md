@@ -1,11 +1,16 @@
 # ArticlesAgentGPT
 
-## ChatGPT
+## ChatGPT/ LLM
 - [AgentGPT](https://agentgpt.reworkd.ai/)
 - [ChatGPT Splitter - Split and Load Large Documents to ChatGPT](https://chatgptsplitter.com/)
 https://towardsdatascience.com/how-i-turned-my-companys-docs-into-a-searchable-database-with-openai-4f2d34bd8736
+https://medium.com/@shaikhrayyan123/a-comprehensive-guide-to-understanding-bert-from-beginners-to-advanced-2379699e2b51
 
-## ATTCK Flow
+## Python
+https://medium.com/@noexec/creating-and-publishing-a-modern-python-package-e0b5bce9461d
+https://betterprogramming.pub/streamsync-like-streamlit-but-faster-and-with-a-visual-ui-editor-9f98ad17adf
+
+## MITRE ATTCK/ ATTCK Flow
 - [attack-flow-builder](https://center-for-threat-informed-defense.github.io/attack-flow/ui/)
 - [Example: attack-flow-builder](https://center-for-threat-informed-defense.github.io/attack-flow/ui/?src=..%2fcorpus%2fCISA%20AA22-138B%20VMWare%20Workspace%20%28Alt%29.afb)
 - [Visualization — Attack Flow v2.0.1 documentation](https://center-for-threat-informed-defense.github.io/attack-flow/visualization/)
@@ -17,6 +22,9 @@ https://towardsdatascience.com/how-i-turned-my-companys-docs-into-a-searchable-d
 - [Analyzing and visualizing cyberattacks using Attack Flow | by Lennart Erikson](https://systemweakness.com/analyzing-and-visualizing-cyberattacks-using-attack-flow-4ccad73c1e8a)
 - [Three ways to use the ATT&CK Navigator for threat-informed decision making — Part 1 | by Lennart Erikson](https://medium.com/@lerikson/three-ways-to-use-the-att-ck-navigator-for-threat-informed-decision-making-part-1-65c0c6004df9)
 - [https://top-attack-techniques.mitre-engenuity.org/](https://top-attack-techniques.mitre-engenuity.org/)
+https://ibrahimakkdag.medium.com/5-ways-to-apply-the-mitre-att-ck-framework-6b17820cb675
+https://medium.com/@lerikson/deep-dive-how-are-the-top-att-ck-techniques-calculated-and-why-should-you-care-39ba3d19bcdd
+https://medium.com/@lerikson/how-i-use-the-mitre-d3fend-matrix-to-defend-against-att-ck-s-9f98cb23df60
 
 ## Threat Reporting/CTI
 - [Elevate your threat intel reports with CTI Blueprints | by Jon Baker | MITRE-Engenuity](https://medium.com/mitre-engenuity/elevate-your-threat-intel-reports-with-cti-blueprints-b0d3b63174dc)
@@ -27,7 +35,7 @@ https://towardsdatascience.com/how-i-turned-my-companys-docs-into-a-searchable-d
 - [Best Threat Intelligence Resources to Follow and add to your RSS feed](https://medium.com/@yanadurb/-best-threat-intelligence-resources-to-follow-and-add-to-your-rss-feed-505263ceb72e)
 - [Cyber Threat Intelligence Learning Resources | by Chad Warner](https://warnerchad.medium.com/cyber-threat-intelligence-learning-resources-5cf00f9fe6c5)
 - [THE MANDIANT CYBER THREAT INTELLIGENCE (CTI) ANALYST CORE COMPETENCIES FRAMEWORK](https://www.mandiant.com/sites/default/files/2022-05/cti-analyst-core-competencies-framework-v1.pdf)
-- [Best Threаt Modеling Тools List in 2023  - Practical DevSecOps](https://www.practical-devsecops.com/best-thre%d0%b0t-mod%d0%b5ling-tools/)
+- [Best Threаt Modеling Тools List in 2023 - Practical DevSecOps](https://www.practical-devsecops.com/best-thre%d0%b0t-mod%d0%b5ling-tools/)
 - [10 Types of Threat Modeling Methodology To Use in 2023 - Practical DevSecOps](https://www.practical-devsecops.com/types-of-threat-modeling-methodology/)
 - [What is STRIDE Threat Model?](https://www.practical-devsecops.com/what-is-stride-threat-model/)
 - [DREAD Threat Modeling Methodology - Practical DevSecOps](https://www.practical-devsecops.com/dread-threat-modeling/)
@@ -43,6 +51,12 @@ https://github.com/center-for-threat-informed-defense/tram
 https://mad.mitre-engenuity.org/Roadmap/THDE
 https://jwennekers.github.io/2023-Threat-Report-Compilation/
 https://medium.com/mitre-engenuity/our-tram-large-language-model-automates-ttp-identification-in-cti-reports-5bc0a30d4567
+https://medium.com/@wenray/threat-hunting-hafinum-apt-15fe38846808
+https://medium.com/mitre-engenuity/strengthening-the-connection-veris-and-mitre-att-ck-c3aac3fa9cd7
+https://packt.medium.com/what-is-cyber-threat-intelligence-7f369e5d773b
+https://adamgoss.medium.com/cyber-threat-intelligence-with-misp-part-1-what-is-misp-d2eaba66336a
+https://wondersmithrae.medium.com/using-foca-for-osint-document-metadata-analysis-6745c8d709fa
+https://infosecwriteups.com/threat-intelligence-with-misp-part-2-setting-up-misp-be857bba8e7
 
 
 ## Threat/Malware PoCs
@@ -82,26 +96,52 @@ https://medium.com/mitre-engenuity/our-tram-large-language-model-automates-ttp-i
 - [Efficient SIEM and Detection Engineering in 10 steps | by Maciej Szymczyk](https://maciejszymczyk.medium.com/efficient-siem-and-detection-engineering-in-10-steps-c82402a70dbd)
 - [MITRE D3FEND (TM) — A knowledge graph of cybersecurity countermeasures. | by SOCFortress](https://medium.com/cyberbits/mitre-d3fend-tm-a-knowledge-graph-of-cybersecurity-countermeasures-5fe60e8ef864)
 - [The Defender’s Guide to Windows Services](https://posts.specterops.io/the-defenders-guide-to-windows-services-67c1711ecba7)
-[Uncovering Windows Events. Threat Intelligence ETW | by Jonathan Johnson](https://jsecurity101.medium.com/uncovering-windows-events-b4b9db7eac54)
-[The Evolution of Protected Processes Part 1 - CrowdStrike](https://www.crowdstrike.com/blog/evolution-protected-processes-part-1-pass-hash-mitigations-windows-81/)
-[Tampering with Windows Event Tracing: Background, Offense, and Defense | by Palantir](https://blog.palantir.com/tampering-with-windows-event-tracing-background-offense-and-defense-4be7ac62ac63)
-[Data Source Analysis and Dynamic Windows RE using WPP and TraceLogging | by Matt Graeber](https://posts.specterops.io/data-source-analysis-and-dynamic-windows-re-using-wpp-and-tracelogging-e465f8b653f7)
-[Understanding Telemetry: Kernel Callbacks | by Jonathan Johnson](https://jsecurity101.medium.com/understanding-telemetry-kernel-callbacks-1a97cfcb8fb3)
+- [Uncovering Windows Events. Threat Intelligence ETW | by Jonathan Johnson](https://jsecurity101.medium.com/uncovering-windows-events-b4b9db7eac54)
+- [The Evolution of Protected Processes Part 1 - CrowdStrike](https://www.crowdstrike.com/blog/evolution-protected-processes-part-1-pass-hash-mitigations-windows-81/)
+- [Tampering with Windows Event Tracing: Background, Offense, and Defense | by Palantir](https://blog.palantir.com/tampering-with-windows-event-tracing-background-offense-and-defense-4be7ac62ac63)
+- [Data Source Analysis and Dynamic Windows RE using WPP and TraceLogging | by Matt Graeber](https://posts.specterops.io/data-source-analysis-and-dynamic-windows-re-using-wpp-and-tracelogging-e465f8b653f7)
+- [Understanding Telemetry: Kernel Callbacks | by Jonathan Johnson](https://jsecurity101.medium.com/understanding-telemetry-kernel-callbacks-1a97cfcb8fb3)
 https://medium.com/@gary.j.katz/detection-engineering-metrics-building-blocks-97be4bccf27b
 https://systemweakness.com/malware-analysis-network-forensics-hawkeye-91043e39baea
 https://cyb3rops.medium.com/about-detection-engineering-44d39e0755f0
 https://kostas-ts.medium.com/threat-hunting-metrics-the-good-the-bad-and-the-ugly-d662907379b2
 https://posts.specterops.io/uncovering-the-unknowns-a47c93bb6971
 https://blog.developer.adobe.com/fast-tracking-incident-detection-with-user-and-entity-behavior-analytics-ueba-733d2b17263d
+https://posts.specterops.io/evadere-classifications-8851a429c94b
+https://detect.fyi/whats-missing-before-the-one-metric-that-matters-in-threat-detection-f988bcde80d1
+https://specterops.io/wp-content/uploads/sites/3/2022/06/RPC_for_Detection_Engineers.pdf
+https://jsecurity101.medium.com/the-dark-side-of-microsoft-remote-procedure-call-protocols-9ad5cb2d2b12
+https://detect.fyi/an-object-oriented-approach-to-threat-detection-engineering-6eadab7e2227
+https://medium.com/anton-on-security/detection-engineering-is-painful-and-it-shouldnt-be-part-1-3641d8740458
+https://posts.bluraven.io/detecting-ntlm-relay-attacks-d92e99e68fb9
+https://medium.com/sigma-hq/introducing-query-post-processing-and-output-finalization-to-processing-pipelines-4bfe74087ac1
+https://jsecurity101.medium.com/better-know-a-data-source-access-tokens-and-why-theyre-hard-to-get-7bc951eae0b9
+https://medium.com/anton-on-security/detection-engineering-and-soc-scalability-challenges-part-2-6d2cf83a8467
+https://tales-from-a-security-professional.com/the-thin-line-between-an-event-and-an-incident-e93032c9eba7
+https://medium.com/@gary.j.katz/measuring-detection-volatility-f2a2d51fdaa6
+https://tho-le.medium.com/threat-hunting-pivoting-via-smb-named-pipe-44f5f9b45b7b
+https://detect.fyi/a-research-driven-process-applied-to-threat-detection-engineering-inputs-1b7e6fe0412b
+https://center-for-threat-informed-defense.github.io/summiting-the-pyramid/overview/
+https://cyborgsecurity.medium.com/50-threat-hunting-hypothesis-examples-87db655d737f
+https://abstractionmaps.com
+https://medium.com/@simone.kraus/summiting-the-pyramid-a-new-dimension-of-cyber-analytics-engineering-81d2319a34e0
+https://www.betaalvereniging.nl/wp-content/uploads/TaHiTI-Threat-Hunting-Methodology-whitepaper.pdf
+https://medium.com/@cryptic_glyd3r/open-season-guide-to-setting-up-the-workflow-for-your-hunting-team-pt-1-67cbb9542045
+- [Rethinking Detection Engineering – Jared Atkinson (SO-CON 2020)](https://www.youtube.com/watch?v=CRtmeWCbRZQ)
+https://medium.com/anton-on-security/left-of-siem-right-of-siem-get-it-right-4b07c54cf062
+https://medium.com/mitre-engenuity/summiting-the-pyramid-level-up-your-analytics-b6f12efd9133
 
 ## Blog Posts
 ### OrbitLink
+https://systemweakness.com/hack-satellites-part-3-8929699ecb3
+https://www.intel.com/content/www/us/en/developer/articles/tool/simics-simulator.html
 
 ### Compromise Assessments
 Title: Compromise Assessments: Threat Hunting on a Desert Island
 
 ## KB's
 https://learn.microsoft.com/en-us/dotnet/framework/migration-guide/versions-and-dependencies
+https://medium.com/pragmatic-programmers/a-beginners-guide-to-tmux-7e6daa5c0154
 
 ## Personal Projects
 ### RedTeamSCADA
@@ -114,6 +154,7 @@ https://github.com/cmu-sei/SCADASim
 #### OCO
 https://openplcproject.com/ (PLC's)
 https://rapidscada.org/ (HMI)
+
 #### DCO
 https://openplcproject.gitlab.io/reference/scada/installing-scadabr.html (HMI)
 https://openplcproject.com/ (PLC's)
@@ -147,10 +188,13 @@ https://betterprogramming.pub/an-intro-to-asynchronous-programming-in-python-3-7
 - [My First Knowledge Management System Failed. Here’s What I Learned: | by HM Khan](https://medium.com/@hussain_khan/my-first-knowledge-management-system-failed-heres-what-i-learned-ef6de439ff0f)
 - [Why I’m Switching From Obsidian to Capacities | by Annette Raffan](https://medium.com/@dandelionmind/why-im-switching-from-obsidian-to-capacities-359f3b561371)
 - [How I Organize My Life in One App (not Notion) | by Parker Klein](https://medium.com/twosapp/how-i-organize-everything-in-my-life-in-one-app-spoiler-alert-its-not-notion-76c7be61a834)
+https://medium.com/@ensleytan/using-obsidian-for-work-5192e95314a0
+https://brookewrites.medium.com/my-step-by-step-process-to-create-a-permanent-note-in-zettelkasten-a4fd356ec636
 
 
 ### Detection as Code
 - [From soup to nuts: Building a Detection-as-Code pipeline | by David French (@threatpunter)](https://medium.com/threatpunter/from-soup-to-nuts-building-a-detection-as-code-pipeline-59b96c875ca1)
+https://medium.com/anton-on-security/can-we-have-detection-as-code-96f869cfdc79
 
 ## Tools
 - [DNS Tunneling Detection — RITA. I hope everything is going well in your… | by whoami](https://medium.com/@wenray/rita-dns-tunneling-detection-9e0267ea1ebf)
@@ -161,6 +205,8 @@ https://betterprogramming.pub/an-intro-to-asynchronous-programming-in-python-3-7
 - [Putting Sysmon v9.0 AND/OR Grouping Logic to the Test | by Roberto Rodriguez](https://posts.specterops.io/putting-sysmon-v9-0-and-or-grouping-logic-to-the-test-c3ec27263df8)
 https://systemweakness.com/incident-response-tool-chainsaw-ed1fc5775344
 https://nasbench.medium.com/understanding-detecting-c2-frameworks-babyshark-641be4595845
+https://michaelkoczwara.medium.com/sliver-c2-implant-analysis-62773928097f
+https://socfortress.medium.com/executable-files-analysis-and-capabilities-detection-using-capa-mandiant-30855068bcd
 
 ## Data Science / Systems Design
 - [Semantic Superiority - Part 1 - by David Jayatillake](https://davidsj.substack.com/p/semantic-superiority-part-1?ref=blog.count.co)
@@ -182,6 +228,10 @@ https://medium.com/@emhedge/homelab-learning-a-general-overview-of-my-homelab-ha
 https://medium.com/@emhedge/homelab-learning-configuring-proxmox-ve-to-host-your-cybersecurity-homelab-fda24dcb04cc
 https://medium.com/threat-hunters-forge/mordor-labs-part-3-executing-att-ck-apt29-evaluations-emulation-plan-day2-417cadc2a337
 https://enescayvarli.medium.com/purple-team-caldera-wazuh-b5dd38971e65
+https://socfortress.medium.com/part-2-graylog-install-log-ingestion-f26140790fab
+https://medium.com/@aali23/a-simple-elastic-siem-lab-6765159ee2b2
+https://socfortress.medium.com/build-your-own-siem-stack-with-open-source-tools-series-39da0f2d412a
+https://github.com/OTRF/SimuLand
 
 
 ## Diagrams as Code
