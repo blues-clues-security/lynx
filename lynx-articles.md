@@ -5,10 +5,13 @@
 - [ChatGPT Splitter - Split and Load Large Documents to ChatGPT](https://chatgptsplitter.com/)
 https://towardsdatascience.com/how-i-turned-my-companys-docs-into-a-searchable-database-with-openai-4f2d34bd8736
 https://medium.com/@shaikhrayyan123/a-comprehensive-guide-to-understanding-bert-from-beginners-to-advanced-2379699e2b51
+https://bratanic-tomaz.medium.com/constructing-knowledge-graphs-from-text-using-openai-functions-096a6d010c17
 
 ## Python
 https://medium.com/@noexec/creating-and-publishing-a-modern-python-package-e0b5bce9461d
 https://betterprogramming.pub/streamsync-like-streamlit-but-faster-and-with-a-visual-ui-editor-9f98ad17adf
+https://betterprogramming.pub/discovering-taipy-and-taipy-gui-e1b664765017
+https://pyscript.net/
 
 ## MITRE ATTCK/ ATTCK Flow
 - [attack-flow-builder](https://center-for-threat-informed-defense.github.io/attack-flow/ui/)
@@ -57,6 +60,9 @@ https://packt.medium.com/what-is-cyber-threat-intelligence-7f369e5d773b
 https://adamgoss.medium.com/cyber-threat-intelligence-with-misp-part-1-what-is-misp-d2eaba66336a
 https://wondersmithrae.medium.com/using-foca-for-osint-document-metadata-analysis-6745c8d709fa
 https://infosecwriteups.com/threat-intelligence-with-misp-part-2-setting-up-misp-be857bba8e7
+https://medium.com/the-sleuth-sheet/the-three-types-of-intelligence-for-threat-intelligence-a-comprehensive-guide-e8bbf1f26164
+https://warnerchad.medium.com/free-cyber-threat-feeds-3a7e8c6159c2
+https://adamgoss.medium.com/creating-your-own-cti-aggregator-for-free-a-complete-guide-b350bfea754a
 
 
 ## Threat/Malware PoCs
@@ -130,6 +136,19 @@ https://medium.com/@cryptic_glyd3r/open-season-guide-to-setting-up-the-workflow-
 - [Rethinking Detection Engineering – Jared Atkinson (SO-CON 2020)](https://www.youtube.com/watch?v=CRtmeWCbRZQ)
 https://medium.com/anton-on-security/left-of-siem-right-of-siem-get-it-right-4b07c54cf062
 https://medium.com/mitre-engenuity/summiting-the-pyramid-level-up-your-analytics-b6f12efd9133
+https://medium.com/@peritomadruga/threat-hunting-vs-incident-response-whats-the-difference-a3e21c78899c
+https://detect.fyi/the-dotted-lines-between-threat-hunting-and-detection-engineering-94fa0f7f62ce
+https://medium.com/anton-on-security/anton-and-the-great-xdr-debate-part-1-8ed148c3cee4
+https://detect.fyi/detect-dll-hijacking-techniques-from-hijacklibs-with-splunk-c760d2e0656f
+https://detect.fyi/detecting-and-responding-to-esxi-compromise-with-splunk-f33998ce7823
+https://medium.com/anton-on-security/chronicle-detect-is-here-63a779679e56
+https://infosecwriteups.com/windows-rdp-session-hijacking-e7b2bbf1356b
+https://jsecurity101.medium.com/exploring-token-members-part-1-48bce8004c6a
+https://jsecurity101.medium.com/demystifying-dll-hijacking-understanding-the-intricate-world-of-dynamic-link-library-attacks-7a952ac8b051
+https://redcanary.com/blog/detection-validation/
+https://medium.com/anton-on-security/detecting-threats-by-matching-threat-intel-to-logs-oh-really-10cc8a4c6384
+https://posts.specterops.io/you-can-run-but-you-cant-hide-detecting-process-reimaging-behavior-e6bb9a10c40b
+
 
 ## Blog Posts
 ### OrbitLink
@@ -168,6 +187,10 @@ https://github.com/cmu-sei/crucible
 https://github.com/cmu-sei/CDAS
 https://itnext.io/pythons-sqlalchemy-3-powerful-features-you-need-to-know-433a8af565ec
 https://medium.com/@ramiromedina/like-streamlit-but-fast-enabling-low-latency-data-apps-948b95b098a2
+
+### DST Updates
+https://medium.com/@wenray/digital-forensics-cybercorp-case-1-75867b95bc88
+https://alpbatursahin.medium.com/investigating-memory-forensic-processes-dlls-consoles-process-memory-and-networking-7277689a09b7
 
 ### Cyber User Simulation/WIC Trials
 https://github.com/cmu-sei/GHOSTS
@@ -232,7 +255,11 @@ https://socfortress.medium.com/part-2-graylog-install-log-ingestion-f26140790fab
 https://medium.com/@aali23/a-simple-elastic-siem-lab-6765159ee2b2
 https://socfortress.medium.com/build-your-own-siem-stack-with-open-source-tools-series-39da0f2d412a
 https://github.com/OTRF/SimuLand
+https://www.udemy.com/course/redis-the-complete-developers-guide-p/
 
+
+## Darkweb/ TOR Browsing
+https://infosecwriteups.com/creating-darkweb-crawler-using-python-and-tor-53169d146301
 
 ## Diagrams as Code
 - [Sequence diagrams | Mermaid](http://mermaid.js.org/syntax/sequenceDiagram.html)
@@ -242,6 +269,10 @@ https://github.com/OTRF/SimuLand
 
 ## Exam Tips
 - [How to pass the CISSP from scratch | by Jacob Larsen](https://jacobcyber.medium.com/how-to-pass-the-cissp-from-scratch-4bf1199e30f6)
+
+## Interview Questions
+https://chigozie-asikaburu.medium.com/how-i-studied-for-my-amazon-security-engineer-l4-interview-822bd8dec898
+https://drive.google.com/drive/folders/1xFWFc2T6IA_4kAYIGtbNWHI6nQ8TSI4a
 
 ## Unlabeled
 - [How to Build the Ultimate Enterprise-Ready Incident Response Playbook | by Adam Goss](https://adamgoss.medium.com/how-to-build-the-ultimate-enterprise-ready-incident-response-playbook-5a0c2a073a9f)
