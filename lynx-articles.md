@@ -1,4 +1,4 @@
-# ArticlesAgentGPT
+# Articles
 
 ## ChatGPT/ LLM
 - [AgentGPT](https://agentgpt.reworkd.ai/)
@@ -6,12 +6,21 @@
 https://towardsdatascience.com/how-i-turned-my-companys-docs-into-a-searchable-database-with-openai-4f2d34bd8736
 https://medium.com/@shaikhrayyan123/a-comprehensive-guide-to-understanding-bert-from-beginners-to-advanced-2379699e2b51
 https://bratanic-tomaz.medium.com/constructing-knowledge-graphs-from-text-using-openai-functions-096a6d010c17
+https://medium.com/microsoftazure/introducing-autogen-df7fa6cb81ee
+https://github.com/fr0gger/Awesome-GPT-Agents
+https://levelup.gitconnected.com/mlops-mastering-machine-learning-deployment-an-intro-to-docker-kubernetes-helm-and-modern-web-e77f31e3c546
 
 ## Python
 https://medium.com/@noexec/creating-and-publishing-a-modern-python-package-e0b5bce9461d
 https://betterprogramming.pub/streamsync-like-streamlit-but-faster-and-with-a-visual-ui-editor-9f98ad17adf
 https://betterprogramming.pub/discovering-taipy-and-taipy-gui-e1b664765017
 https://pyscript.net/
+
+## Rust
+https://medium.com/@alexanderdarby/how-to-write-your-first-rust-program-quickly-1a093f56f074
+https://doc.rust-lang.org/
+https://github.com/rust-lang/rustlings
+https://docs.rs/thiserror/latest/thiserror
 
 ## MITRE ATTCK/ ATTCK Flow
 - [attack-flow-builder](https://center-for-threat-informed-defense.github.io/attack-flow/ui/)
@@ -28,6 +37,8 @@ https://pyscript.net/
 https://ibrahimakkdag.medium.com/5-ways-to-apply-the-mitre-att-ck-framework-6b17820cb675
 https://medium.com/@lerikson/deep-dive-how-are-the-top-att-ck-techniques-calculated-and-why-should-you-care-39ba3d19bcdd
 https://medium.com/@lerikson/how-i-use-the-mitre-d3fend-matrix-to-defend-against-att-ck-s-9f98cb23df60
+https://medium.com/@lerikson/using-llms-to-improve-your-incident-response-capability-attackgen-1db851d0083b
+https://systemweakness.com/analyzing-and-visualizing-cyberattacks-using-attack-flow-4ccad73c1e8a
 
 ## Threat Reporting/CTI
 - [Elevate your threat intel reports with CTI Blueprints | by Jon Baker | MITRE-Engenuity](https://medium.com/mitre-engenuity/elevate-your-threat-intel-reports-with-cti-blueprints-b0d3b63174dc)
@@ -63,7 +74,10 @@ https://infosecwriteups.com/threat-intelligence-with-misp-part-2-setting-up-misp
 https://medium.com/the-sleuth-sheet/the-three-types-of-intelligence-for-threat-intelligence-a-comprehensive-guide-e8bbf1f26164
 https://warnerchad.medium.com/free-cyber-threat-feeds-3a7e8c6159c2
 https://adamgoss.medium.com/creating-your-own-cti-aggregator-for-free-a-complete-guide-b350bfea754a
-
+https://app.netlas.io/
+https://publication.osintambition.org/how-to-detect-scam-and-shadow-it-domains-with-netlas-io-f72085e6f18b
+https://blog.securitybreak.io/applying-llms-to-threat-intelligence-f3b8ba4463a4
+- [Personal CTI Aggregator](https://feedly.com/i/my)
 
 ## Threat/Malware PoCs
 - [Data Exfiltration using ICMP (and how to detect it) | by SOCFortress](https://socfortress.medium.com/data-exfiltration-using-icmp-and-how-to-detect-it-69a799cca234)
@@ -77,6 +91,12 @@ https://adamgoss.medium.com/creating-your-own-cti-aggregator-for-free-a-complete
 - [Ready to hunt? First, Show me your data!](https://posts.specterops.io/ready-to-hunt-first-show-me-your-data-a642c6b170d6)
 - [On Detection: From Tactical to Functional | by Jared Atkinson](https://medium.com/specter-ops-posts/on-detection-from-tactical-to-functional-1349e51e1a03)
 - [The Defender’s Guide to the Windows Registry](https://posts.specterops.io/the-defenders-guide-to-the-windows-registry-febe241abc75)
+
+## SOAR
+https://medium.com/anton-on-security/crosspost-a-simple-soar-adoption-maturity-model-dacf61ae857b
+
+## Kubernetes/ Docker Threat Hunt/Pentest
+https://blog.appsecco.com/a-pentesters-approach-to-kubernetes-security-part-1-2b328252954a
 
 ## Threat Detection/ Detection Engineering
 - [On Threat Detection Uncertainty. My post “Why is Threat Detection Hard?”… | by Anton Chuvakin](https://medium.com/anton-on-security/on-threat-detection-uncertainty-7eac9b22adb6)
@@ -148,6 +168,15 @@ https://jsecurity101.medium.com/demystifying-dll-hijacking-understanding-the-int
 https://redcanary.com/blog/detection-validation/
 https://medium.com/anton-on-security/detecting-threats-by-matching-threat-intel-to-logs-oh-really-10cc8a4c6384
 https://posts.specterops.io/you-can-run-but-you-cant-hide-detecting-process-reimaging-behavior-e6bb9a10c40b
+https://www.youtube.com/watch?v=cJKtREGhjE8
+https://detect.fyi/detecting-network-beacons-via-kql-using-simple-spread-stats-functions-c2f031b0736b
+https://medium.com/anton-on-security/aim-the-intel-function-on-detection-engineering-part-4-5ad8137560bf
+https://nasbench.medium.com/finding-forensic-goodness-in-obscure-windows-event-logs-60e978ea45a3
+https://ateixei.medium.com/diy-in-house-threat-detection-engineering-73643a0b06f
+https://betterappsec.com/a-medium-dive-into-web-application-authentication-342d1d002a61
+https://posts.specterops.io/on-detection-tactical-to-functional-a3a0a5c4d566
+https://archbishop.io/posts/alert-names-that-dont-suck/
+https://altexsoft.medium.com/epp-vs-edr-vs-xdr-endpoint-security-comparison-57409987f65e
 
 
 ## Blog Posts
@@ -181,6 +210,9 @@ https://openplcproject.com/ (PLC's)
 ### NetMap
 https://towardsdatascience.com/d3blocks-the-python-library-to-create-interactive-and-standalone-d3js-charts-3dda98ce97d4
 
+### Spectrum Analyzer
+https://medium.datadriveninvestor.com/mastering-plotly-let-your-visualizations-talk-through-plotly-492d6e277ca4
+
 ### Web PTT/ WIC Trials
 https://github.com/cmu-sei/foundry-appliance
 https://github.com/cmu-sei/crucible
@@ -191,6 +223,8 @@ https://medium.com/@ramiromedina/like-streamlit-but-fast-enabling-low-latency-da
 ### DST Updates
 https://medium.com/@wenray/digital-forensics-cybercorp-case-1-75867b95bc88
 https://alpbatursahin.medium.com/investigating-memory-forensic-processes-dlls-consoles-process-memory-and-networking-7277689a09b7
+- [SANS FOR532 Memory Forensics - Slides](https://sansorg.egnyte.com/dl/hKUKAN7ZDT)
+- [SANS FOR532 Memory Forensics - Lab](https://sansorg.egnyte.com/dl/u5Tlhm9qk9)
 
 ### Cyber User Simulation/WIC Trials
 https://github.com/cmu-sei/GHOSTS
@@ -230,12 +264,18 @@ https://systemweakness.com/incident-response-tool-chainsaw-ed1fc5775344
 https://nasbench.medium.com/understanding-detecting-c2-frameworks-babyshark-641be4595845
 https://michaelkoczwara.medium.com/sliver-c2-implant-analysis-62773928097f
 https://socfortress.medium.com/executable-files-analysis-and-capabilities-detection-using-capa-mandiant-30855068bcd
+https://medium.com/@RantaSec/bloodhound-for-blue-teams-windows-event-id-4624-a259c76ee09e
 
 ## Data Science / Systems Design
 - [Semantic Superiority - Part 1 - by David Jayatillake](https://davidsj.substack.com/p/semantic-superiority-part-1?ref=blog.count.co)
 - [Dashboards Are Dead: 3 Years Later | by Taylor Brownlow](https://towardsdatascience.com/dashboards-are-dead-3-years-later-72347757bfa6)
 [System Design Blueprint: The Ultimate Guide | by Love Sharma | ByteByteGo System Design Alliance](https://medium.com/bytebytego-system-design-alliance/system-design-blueprint-the-ultimate-guide-e27b914bf8f1)
 [The Past, Present, and Future of Data Architecture | by Diogo Silva Santos](https://medium.com/@diogo22santos/the-past-present-and-future-of-data-architecture-bd23dea0654b)
+https://records.unimelb.edu.au/guides/naming-conventions
+
+## .NET/ Custom Logs
+https://levelup.gitconnected.com/a-simple-event-sourcing-implementation-in-net-b53c40401ecb
+
 
 ## Home Labs
 - [Building a Cyber Security Lab. The biggest fallback in my journey so… | by Liam Stott](https://medium.com/@liam.stott/building-a-cyber-security-lab-694a386ccb7b)
@@ -256,6 +296,13 @@ https://medium.com/@aali23/a-simple-elastic-siem-lab-6765159ee2b2
 https://socfortress.medium.com/build-your-own-siem-stack-with-open-source-tools-series-39da0f2d412a
 https://github.com/OTRF/SimuLand
 https://www.udemy.com/course/redis-the-complete-developers-guide-p/
+https://medium.com/@jaxzin/how-i-turned-a-cheap-weather-station-into-a-personal-devops-dashboard-5c8820790fd5
+https://facyber.me/posts/blue-team-lab-guide-part-1/
+https://itnext.io/kubernetes-multi-cluster-implementation-in-under-10-minutes-2927952fb84c
+https://medium.com/@estebanthi/the-23-best-things-to-build-with-a-raspberry-pi-9cbc40169997
+https://medium.com/@rubenszimbres/install-a-real-time-intrusion-detection-system-ids-with-suricata-and-python-7ce7ae78c5a3
+https://levelup.gitconnected.com/10-apps-for-your-homelab-in-2022-867957bc9b2f
+https://tjtharrison.medium.com/setting-up-homelab-3-0-8624060adf2f
 
 
 ## Darkweb/ TOR Browsing
@@ -270,9 +317,15 @@ https://infosecwriteups.com/creating-darkweb-crawler-using-python-and-tor-53169d
 ## Exam Tips
 - [How to pass the CISSP from scratch | by Jacob Larsen](https://jacobcyber.medium.com/how-to-pass-the-cissp-from-scratch-4bf1199e30f6)
 
-## Interview Questions
+## Interview Questions/Tips
 https://chigozie-asikaburu.medium.com/how-i-studied-for-my-amazon-security-engineer-l4-interview-822bd8dec898
 https://drive.google.com/drive/folders/1xFWFc2T6IA_4kAYIGtbNWHI6nQ8TSI4a
+https://www.youtube.com/c/vetsec
+https://app.hopin.com/events/vetseccon-23/replay/
+https://grow.google/certificates/interview-warmup/category/cybersecurity/
+
+## Skillbridge
+- [Skillbridge Training Plan Template](https://docs.google.com/document/u/0/d/1KWf2GIpGcRB02aFz0N8ZNSyI03FCD0qp8mVzAu-DiEY/mobilebasic)
 
 ## Unlabeled
 - [How to Build the Ultimate Enterprise-Ready Incident Response Playbook | by Adam Goss](https://adamgoss.medium.com/how-to-build-the-ultimate-enterprise-ready-incident-response-playbook-5a0c2a073a9f)
