@@ -15,6 +15,7 @@ https://medium.com/@noexec/creating-and-publishing-a-modern-python-package-e0b5b
 https://betterprogramming.pub/streamsync-like-streamlit-but-faster-and-with-a-visual-ui-editor-9f98ad17adf
 https://betterprogramming.pub/discovering-taipy-and-taipy-gui-e1b664765017
 https://pyscript.net/
+https://levelup.gitconnected.com/how-to-print-in-color-in-python-without-external-libraries-db6e15e5c03c
 
 ## Rust
 https://medium.com/@alexanderdarby/how-to-write-your-first-rust-program-quickly-1a093f56f074
@@ -79,10 +80,11 @@ https://publication.osintambition.org/how-to-detect-scam-and-shadow-it-domains-w
 https://blog.securitybreak.io/applying-llms-to-threat-intelligence-f3b8ba4463a4
 - [Personal CTI Aggregator](https://feedly.com/i/my)
 
-## Threat/Malware PoCs
+## Threat/Malware PoCs/ Red Team
 - [Data Exfiltration using ICMP (and how to detect it) | by SOCFortress](https://socfortress.medium.com/data-exfiltration-using-icmp-and-how-to-detect-it-69a799cca234)
 - [GitHub - icyguider/ICMP-TransferTools: Transfer files to and from a Windows host via ICMP in restricted network environments.](https://github.com/icyguider/ICMP-TransferTools)
 - [Practical Malware Analysis & Triage | by atlas | Jul, 2023](https://medium.com/@atlas64/practical-malware-analysis-triage-a1a4aeb8db44)
+https://posts.specterops.io/a-red-teamers-guide-to-gpos-and-ous-f0d03976a31e
 
 ## SpecterOps
 - [Hacking With Your Nemesis. In the first post in this series, On… | by Will Schroeder](https://posts.specterops.io/hacking-with-your-nemesis-7861f75fcab4)
