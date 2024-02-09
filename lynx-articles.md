@@ -79,12 +79,17 @@ https://app.netlas.io/
 https://publication.osintambition.org/how-to-detect-scam-and-shadow-it-domains-with-netlas-io-f72085e6f18b
 https://blog.securitybreak.io/applying-llms-to-threat-intelligence-f3b8ba4463a4
 - [Personal CTI Aggregator](https://feedly.com/i/my)
+https://itnext.io/prioritising-vulnerabilities-remedial-actions-at-scale-with-epss-23bb60d614d9
+
 
 ## Threat/Malware PoCs/ Red Team
 - [Data Exfiltration using ICMP (and how to detect it) | by SOCFortress](https://socfortress.medium.com/data-exfiltration-using-icmp-and-how-to-detect-it-69a799cca234)
 - [GitHub - icyguider/ICMP-TransferTools: Transfer files to and from a Windows host via ICMP in restricted network environments.](https://github.com/icyguider/ICMP-TransferTools)
 - [Practical Malware Analysis & Triage | by atlas | Jul, 2023](https://medium.com/@atlas64/practical-malware-analysis-triage-a1a4aeb8db44)
 https://posts.specterops.io/a-red-teamers-guide-to-gpos-and-ous-f0d03976a31e
+https://infosecwriteups.com/evading-detection-while-using-nmap-69633df091f3
+https://levelup.gitconnected.com/hacked-tokens-a-horror-story-d33d4de44289
+https://posts.redteamtacticsacademy.com/under-the-radar-dll-sideloading-with-fixmapi-exe-for-red-teams-23d0416b89ca
 
 ## SpecterOps
 - [Hacking With Your Nemesis. In the first post in this series, On… | by Will Schroeder](https://posts.specterops.io/hacking-with-your-nemesis-7861f75fcab4)
@@ -99,6 +104,9 @@ https://medium.com/anton-on-security/crosspost-a-simple-soar-adoption-maturity-m
 
 ## Kubernetes/ Docker Threat Hunt/Pentest
 https://blog.appsecco.com/a-pentesters-approach-to-kubernetes-security-part-1-2b328252954a
+https://medium.com/google-cloud/kyc-know-your-container-image-with-slsa-sbom-and-binary-authorization-8bad35d9cbd0
+https://www.synacktiv.com/publications/kubernetes-namespaces-isolation-what-it-is-what-it-isnt-life-universe-and-everything
+https://itnext.io/introduction-to-kubernetes-security-for-security-professionals-a61b424f7a2a
 
 ## Threat Detection/ Detection Engineering
 - [On Threat Detection Uncertainty. My post “Why is Threat Detection Hard?”… | by Anton Chuvakin](https://medium.com/anton-on-security/on-threat-detection-uncertainty-7eac9b22adb6)
@@ -132,7 +140,6 @@ https://blog.appsecco.com/a-pentesters-approach-to-kubernetes-security-part-1-2b
 https://medium.com/@gary.j.katz/detection-engineering-metrics-building-blocks-97be4bccf27b
 https://systemweakness.com/malware-analysis-network-forensics-hawkeye-91043e39baea
 https://cyb3rops.medium.com/about-detection-engineering-44d39e0755f0
-https://kostas-ts.medium.com/threat-hunting-metrics-the-good-the-bad-and-the-ugly-d662907379b2
 https://posts.specterops.io/uncovering-the-unknowns-a47c93bb6971
 https://blog.developer.adobe.com/fast-tracking-incident-detection-with-user-and-entity-behavior-analytics-ueba-733d2b17263d
 https://posts.specterops.io/evadere-classifications-8851a429c94b
@@ -148,7 +155,6 @@ https://medium.com/anton-on-security/detection-engineering-and-soc-scalability-c
 https://tales-from-a-security-professional.com/the-thin-line-between-an-event-and-an-incident-e93032c9eba7
 https://medium.com/@gary.j.katz/measuring-detection-volatility-f2a2d51fdaa6
 https://tho-le.medium.com/threat-hunting-pivoting-via-smb-named-pipe-44f5f9b45b7b
-https://detect.fyi/a-research-driven-process-applied-to-threat-detection-engineering-inputs-1b7e6fe0412b
 https://center-for-threat-informed-defense.github.io/summiting-the-pyramid/overview/
 https://cyborgsecurity.medium.com/50-threat-hunting-hypothesis-examples-87db655d737f
 https://abstractionmaps.com
@@ -211,6 +217,7 @@ https://openplcproject.com/ (PLC's)
 
 ### NetMap
 https://towardsdatascience.com/d3blocks-the-python-library-to-create-interactive-and-standalone-d3js-charts-3dda98ce97d4
+https://towardsdatascience.com/the-new-best-python-package-for-visualising-network-graphs-e220d59e054e
 
 ### Spectrum Analyzer
 https://medium.datadriveninvestor.com/mastering-plotly-let-your-visualizations-talk-through-plotly-492d6e277ca4
@@ -254,6 +261,7 @@ https://brookewrites.medium.com/my-step-by-step-process-to-create-a-permanent-no
 ### Detection as Code
 - [From soup to nuts: Building a Detection-as-Code pipeline | by David French (@threatpunter)](https://medium.com/threatpunter/from-soup-to-nuts-building-a-detection-as-code-pipeline-59b96c875ca1)
 https://medium.com/anton-on-security/can-we-have-detection-as-code-96f869cfdc79
+https://center-for-threat-informed-defense.github.io/sensor-mappings-to-attack/levels/
 
 ## Tools
 - [DNS Tunneling Detection — RITA. I hope everything is going well in your… | by whoami](https://medium.com/@wenray/rita-dns-tunneling-detection-9e0267ea1ebf)
@@ -267,6 +275,8 @@ https://nasbench.medium.com/understanding-detecting-c2-frameworks-babyshark-641b
 https://michaelkoczwara.medium.com/sliver-c2-implant-analysis-62773928097f
 https://socfortress.medium.com/executable-files-analysis-and-capabilities-detection-using-capa-mandiant-30855068bcd
 https://medium.com/@RantaSec/bloodhound-for-blue-teams-windows-event-id-4624-a259c76ee09e
+https://lovethepenguin.com/turn-your-scripts-into-binaries-using-the-awesome-shc-tool-ddf9863ec121
+
 
 ## Data Science / Systems Design
 - [Semantic Superiority - Part 1 - by David Jayatillake](https://davidsj.substack.com/p/semantic-superiority-part-1?ref=blog.count.co)
@@ -274,6 +284,9 @@ https://medium.com/@RantaSec/bloodhound-for-blue-teams-windows-event-id-4624-a25
 [System Design Blueprint: The Ultimate Guide | by Love Sharma | ByteByteGo System Design Alliance](https://medium.com/bytebytego-system-design-alliance/system-design-blueprint-the-ultimate-guide-e27b914bf8f1)
 [The Past, Present, and Future of Data Architecture | by Diogo Silva Santos](https://medium.com/@diogo22santos/the-past-present-and-future-of-data-architecture-bd23dea0654b)
 https://records.unimelb.edu.au/guides/naming-conventions
+https://towardsdatascience.com/system-design-cheatsheets-elasticsearch-673b98eebfff
+https://towardsdatascience.com/six-books-that-have-shaped-my-data-career-8d9db9a40691
+
 
 ## .NET/ Custom Logs
 https://levelup.gitconnected.com/a-simple-event-sourcing-implementation-in-net-b53c40401ecb
@@ -305,7 +318,7 @@ https://medium.com/@estebanthi/the-23-best-things-to-build-with-a-raspberry-pi-9
 https://medium.com/@rubenszimbres/install-a-real-time-intrusion-detection-system-ids-with-suricata-and-python-7ce7ae78c5a3
 https://levelup.gitconnected.com/10-apps-for-your-homelab-in-2022-867957bc9b2f
 https://tjtharrison.medium.com/setting-up-homelab-3-0-8624060adf2f
-
+https://blog.iso365down.com/so-you-want-to-do-some-logging-pt-1-setup-ed319422d331
 
 ## Darkweb/ TOR Browsing
 https://infosecwriteups.com/creating-darkweb-crawler-using-python-and-tor-53169d146301
@@ -328,6 +341,7 @@ https://grow.google/certificates/interview-warmup/category/cybersecurity/
 
 ## Skillbridge
 - [Skillbridge Training Plan Template](https://docs.google.com/document/u/0/d/1KWf2GIpGcRB02aFz0N8ZNSyI03FCD0qp8mVzAu-DiEY/mobilebasic)
+
 
 ## Unlabeled
 - [How to Build the Ultimate Enterprise-Ready Incident Response Playbook | by Adam Goss](https://adamgoss.medium.com/how-to-build-the-ultimate-enterprise-ready-incident-response-playbook-5a0c2a073a9f)
