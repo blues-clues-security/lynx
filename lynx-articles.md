@@ -106,6 +106,8 @@
 - [Red Team Cheatsheets](https://github.com/RedefiningReality/Cheatsheets/tree/main)
 - [Pentest Labs - DLL Proxy Loading](https://pentestlab.blog/2024/04/03/persistence-dll-proxy-loading/)
 - [OSED Notes (Exploit Development)](https://zeyadazima.com/notes/osednotes/)
+- [Oliveau's CCMExec Blog](https://cloud.google.com/blog/topics/threat-intelligence/windows-session-hijacking-via-ccmexec)
+- [CCMPwn Repo](https://github.com/mandiant/CcmPwn)
 
 ## SpecterOps
 - [Hacking With Your Nemesis. In the first post in this series, On… | by Will Schroeder](https://posts.specterops.io/hacking-with-your-nemesis-7861f75fcab4)
