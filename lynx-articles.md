@@ -9,6 +9,8 @@
 - [Introducing AutoGen. Enabling LLM-powered agents to… | by Valentina Alto | Microsoft Azure | Medium](https://medium.com/microsoftazure/introducing-autogen-df7fa6cb81ee)
 - [GitHub - fr0gger/Awesome-GPT-Agents: A curated list of GPT agents for cybersecurity](https://github.com/fr0gger/Awesome-GPT-Agents)
 - [MLOps: Mastering Machine Learning Deployment: An Intro to Docker, Kubernetes, Helm, and Modern Web Frameworks-End To End Projects — Part II | by Senthil E | Level Up Coding](https://levelup.gitconnected.com/mlops-mastering-machine-learning-deployment-an-intro-to-docker-kubernetes-helm-and-modern-web-e77f31e3c546)
+- https://github.com/salah9003/Automated-Vulnerability-Scanning-with-Agentic-AI/blob/main/agent.py
+
 
 ## Python
 - [Authoring a Modern Python Package | by Michael Orlov | Medium](https://medium.com/@noexec/creating-and-publishing-a-modern-python-package-e0b5bce9461d)
@@ -86,7 +88,7 @@
 - [Data Exfiltration using ICMP (and how to detect it) | by SOCFortress](https://socfortress.medium.com/data-exfiltration-using-icmp-and-how-to-detect-it-69a799cca234)
 - [GitHub - icyguider/ICMP-TransferTools: Transfer files to and from a Windows host via ICMP in restricted network environments.](https://github.com/icyguider/ICMP-TransferTools)
 - [Practical Malware Analysis & Triage | by atlas | Jul, 2023](https://medium.com/@atlas64/practical-malware-analysis-triage-a1a4aeb8db44)
-- [A Red Teamer’s Guide to GPOs and OUs | by Andy Robbins | Posts By SpecterOps Team Members](https://posts.specterops.io/a-red-teamers-guide-to-gpos-and-ous-f0d03976a31e)
+- [A Red Teamer’s Guide to GPOs and OUs | by Andy Robbins | Posts By SpecterOps Team Members](https://posts.specterops.io/a-red-teamers-guide-to-gpos-and-ous-f0d03976a31e) 
 - [Evading Detection while using nmap | by bob van der staak | InfoSec Write-ups](https://infosecwriteups.com/evading-detection-while-using-nmap-69633df091f3)
 - [Hacked Tokens: A Horror Story. Dissecting how a hacked token caused a… | by Jake Teo | Level Up Coding](https://levelup.gitconnected.com/hacked-tokens-a-horror-story-d33d4de44289)
 - [Under the Radar: DLL Sideloading with fixmapi.exe for Red Teams | by ShadowPyre | REDTACTICTEAMACADEMY](https://posts.redteamtacticsacademy.com/under-the-radar-dll-sideloading-with-fixmapi-exe-for-red-teams-23d0416b89ca)
@@ -97,7 +99,13 @@
 - [Misconfiguration Manager: Overlooked and Overprivileged | by Duane Michael | Mar, 2024 | Posts By SpecterOps Team Members](https://posts.specterops.io/misconfiguration-manager-overlooked-and-overprivileged-70983b8f350d)
 - [Palo Alto Networks URL filtering - Test A Site](https://urlfiltering.paloaltonetworks.com/query/)
 - [Cyber Ranges](https://dashboard.snaplabs.io/templates/121fda0a-6cc3-4889-bee3-2fe83856f530)
-
+- [Linux PrivEsc CVE-2024-1086](https://github.com/notselwyn/cve-2024-1086)
+- [CVE-2024-1086 Blogpost](https://pwning.tech/nftables/)
+- [Unsaflok Hotel Keycard Hack](https://unsaflok.com/)
+- [Cobaltstrike Resources](https://github.com/RedefiningReality/Cobalt-Strike)
+- [Red Team Cheatsheets](https://github.com/RedefiningReality/Cheatsheets/tree/main)
+- [Pentest Labs - DLL Proxy Loading](https://pentestlab.blog/2024/04/03/persistence-dll-proxy-loading/)
+- [OSED Notes (Exploit Development)](https://zeyadazima.com/notes/osednotes/)
 
 ## SpecterOps
 - [Hacking With Your Nemesis. In the first post in this series, On… | by Will Schroeder](https://posts.specterops.io/hacking-with-your-nemesis-7861f75fcab4)
@@ -208,6 +216,10 @@ Title: Compromise Assessments: Threat Hunting on a Desert Island
 - [A Beginner’s Guide to tmux. Make the Most of Your Terminal Sessions | by Ricardo Gerardi | The Pragmatic Programmers | Medium](https://medium.com/pragmatic-programmers/a-beginners-guide-to-tmux-7e6daa5c0154)
 
 ## Personal Projects
+### BluesClues
+- [Threat Modeling Tool (Has multi-user editing web front end)](https://github.com/klarna-incubator/gram/tree/main)
+
+
 ### RedTeamSCADA
 - [GitHub - pyscada/PyScada: PyScada is a open source scada system that uses the Django framework as backend](https://github.com/pyscada/PyScada)
 - [GitHub - djformby/GRFICS: Graphical Realism Framework for Industrial Control Simulations](https://github.com/djformby/GRFICS)
@@ -340,15 +352,16 @@ Title: Compromise Assessments: Threat Hunting on a Desert Island
 ## Exam Tips
 - [How to pass the CISSP from scratch | by Jacob Larsen](https://jacobcyber.medium.com/how-to-pass-the-cissp-from-scratch-4bf1199e30f6)
 
-## Interview Questions/Tips
+## Resume/Interview Questions/Tips
 - [How I Studied for My Amazon Security Engineer (L4) Interview | Medium](https://chigozie-asikaburu.medium.com/how-i-studied-for-my-amazon-security-engineer-l4-interview-822bd8dec898)
 - [How I Studied for My Amazon Security Engineer (L4) Interview - Google Drive](https://drive.google.com/drive/folders/1xFWFc2T6IA_4kAYIGtbNWHI6nQ8TSI4a)
 - [VetSec - YouTube](https://www.youtube.com/c/vetsec)
 - [https://app.hopin.com/events/vetseccon-23/replay/](https://app.hopin.com/events/vetseccon-23/replay/)
 - [Interview Warmup - Grow with Google](https://grow.google/certificates/interview-warmup/category/cybersecurity/)
+- [An engineer who landed a $300,000 job at Google shares the résumé that got him in the door — and 3 things he'd change on it today](https://www.businessinsider.com/resume-tips-google-software-engineer-skills-experience-careers-software-tech-2024-3?amp)
 
 ## Skillbridge
-- [Skillbridge Training Plan Template](https://docs.google.com/document/u/0/d/1KWf2GIpGcRB02aFz0N8ZNSyI03FCD0qp8mVzAu-DiEY/mobilebasic)
+- [Skillbridge Training Plan Template](https://docs.google.com/document/u/0/d/1KWf2GIpGcRB02aFz0N8ZNSyI03FCD0qp8mVzAu-DiEY)
 
 
 ## Unlabeled
