@@ -108,6 +108,22 @@
 - [OSED Notes (Exploit Development)](https://zeyadazima.com/notes/osednotes/)
 - [Oliveau's CCMExec Blog](https://cloud.google.com/blog/topics/threat-intelligence/windows-session-hijacking-via-ccmexec)
 - [CCMPwn Repo](https://github.com/mandiant/CcmPwn)
+- [CVE-2024-24576 (Windows CMD.exe Command Escaping)](https://github.com/brains93/cve-2024-24576-poc-python)
+- [CVE-2024-24576 (Windows CMD.exe Command Escaping) - Video Walkthrough](https://www.youtube.com/watch?v=xjL4pdf7pJ0)
+- [Dump LSASS w/only NTAPIs](https://github.com/ricardojoserf/NativeDump)
+https://posts.specterops.io/bypassing-uac-using-app-paths-9249d8cbe9c9
+- [Chrome Website Cache Poisoning PoC](https://github.com/dneprDroid/chrome-poc-demo)
+https://posts.specterops.io/nemesis-1-0-0-8c6b745dc7c5
+https://haymiz.dev/security/2024/04/27/automating-apis-with-postman-workflows/
+https://ghostsecurity.com/resources/blog/introducing-reaper
+https://danaepp.com/writing-api-exploits-in-python
+https://tierzerosecurity.co.nz/2024/04/29/kexecdd.html
+https://medium.com/@clearbluejar/everyday-ghidra-symbols-prescription-lenses-for-reverse-engineers-part-1-d3efe9279a0b
+https://github.com/GJDuck/RRFuzz
+https://github.com/jsecurity101/ETWInspector
+https://www.binarydefense.com/resources/blog/letmeowin-analysis-of-a-credential-dumper/
+https://github.com/ugurkocde/IntuneAssignmentChecker
+https://github.com/tsale/EDR-Telemetry
 
 ## SpecterOps
 - [Hacking With Your Nemesis. In the first post in this series, On… | by Will Schroeder](https://posts.specterops.io/hacking-with-your-nemesis-7861f75fcab4)
@@ -116,9 +132,11 @@
 - [Ready to hunt? First, Show me your data!](https://posts.specterops.io/ready-to-hunt-first-show-me-your-data-a642c6b170d6)
 - [On Detection: From Tactical to Functional | by Jared Atkinson](https://medium.com/specter-ops-posts/on-detection-from-tactical-to-functional-1349e51e1a03)
 - [The Defender’s Guide to the Windows Registry](https://posts.specterops.io/the-defenders-guide-to-the-windows-registry-febe241abc75)
+https://posts.specterops.io/behavior-vs-execution-modality-3318e8e81739
 
-## SOAR
+## SOAR/C2 Frameworks
 - [A Simple SOAR Adoption Maturity Model | by Anton Chuvakin | Anton on Security | Medium](https://medium.com/anton-on-security/crosspost-a-simple-soar-adoption-maturity-model-dacf61ae857b)
+
 
 ## Kubernetes/ Docker Threat Hunt/Pentest
 - [A Pentester’s Approach to Kubernetes Security — Part 1 | by Riyaz Walikar | Appsecco](https://blog.appsecco.com/a-pentesters-approach-to-kubernetes-security-part-1-2b328252954a)
@@ -203,6 +221,13 @@
 - [On Detection: Tactical to Functional | by Jared Atkinson | Posts By SpecterOps Team Members](https://posts.specterops.io/on-detection-tactical-to-functional-a3a0a5c4d566)
 - [Writing Better Alert Names - How to win hearts of SOC Analysts | archbishopsec](https://archbishop.io/posts/alert-names-that-dont-suck/)
 - [EPP vs EDR vs XDR: Endpoint Security Comparison | by AltexSoft Inc | Medium](https://altexsoft.medium.com/epp-vs-edr-vs-xdr-endpoint-security-comparison-57409987f65e)
+https://medium.com/mitre-engenuity/measure-maximize-mature-your-threat-informed-defense-64a51c2a869b#proof-of-concept-assessment-tool
+https://github.com/center-for-threat-informed-defense/m3tid/tree/main
+https://center-for-threat-informed-defense.github.io/m3tid/
+- [EvilGoPhish Update Walkthrough](https://fin3ss3g0d.net/index.php/2024/04/08/evilgophishs-approach-to-advanced-bot-detection-with-cloudflare-turnstile/)
+- [Windows Thread Pool DLL Proxying](https://fin3ss3g0d.net/index.php/2024/03/18/weaponizing-windows-thread-pool-apis-proxying-dll-loads/)
+https://www.elastic.co/blog/detections-as-code-elastic-security  
+https://learn.microsoft.com/en-us/azure/defender-for-cloud/alerts-reference
 
 
 ## Blog Posts
@@ -220,6 +245,7 @@ Title: Compromise Assessments: Threat Hunting on a Desert Island
 ## Personal Projects
 ### BluesClues
 - [Threat Modeling Tool (Has multi-user editing web front end)](https://github.com/klarna-incubator/gram/tree/main)
+- https://github.com/6abd/horus
 
 
 ### RedTeamSCADA
@@ -298,6 +324,7 @@ Title: Compromise Assessments: Threat Hunting on a Desert Island
 - [Executable files analysis and capabilities detection using capa (Mandiant) | by SOCFortress | Medium](https://socfortress.medium.com/executable-files-analysis-and-capabilities-detection-using-capa-mandiant-30855068bcd)
 - [BloodHound for Blue Teams: Windows Event ID 4624 | by Lukas Klein | Medium](https://medium.com/@RantaSec/bloodhound-for-blue-teams-windows-event-id-4624-a259c76ee09e)
 - [Turn your scripts into binaries using the awesome shc tool! | by Konstantinos Patronas | Medium](https://lovethepenguin.com/turn-your-scripts-into-binaries-using-the-awesome-shc-tool-ddf9863ec121)
+- - [Havoc C2 Framework Defensive Analysis](https://www.immersivelabs.com/blog/havoc-c2-framework-a-defensive-operators-guide/)
 
 
 ## Data Science / Systems Design
@@ -341,6 +368,7 @@ Title: Compromise Assessments: Threat Hunting on a Desert Island
 - [10 Apps For Your Homelab In 2022 | Level Up Coding](https://levelup.gitconnected.com/10-apps-for-your-homelab-in-2022-867957bc9b2f)
 - [Setting up homelab 3.0. Start of my journey in spinning up the… | by tjtharrison | Medium](https://tjtharrison.medium.com/setting-up-homelab-3-0-8624060adf2f)
 - [So you want to do some logging. . . (PT. 1 Setup) | by HanSolo71 | Medium](https://blog.iso365down.com/so-you-want-to-do-some-logging-pt-1-setup-ed319422d331)
+https://docs.ludus.cloud/docs/quick-start/install-ludus
 
 ## Darkweb/ TOR Browsing
 - [Creating Darkweb Crawler using Python and Tor | by CyberSec_Sai | InfoSec Write-ups](https://infosecwriteups.com/creating-darkweb-crawler-using-python-and-tor-53169d146301)
@@ -365,7 +393,8 @@ Title: Compromise Assessments: Threat Hunting on a Desert Island
 ## Skillbridge
 - [Skillbridge Training Plan Template](https://docs.google.com/document/u/0/d/1KWf2GIpGcRB02aFz0N8ZNSyI03FCD0qp8mVzAu-DiEY)
 
-
+## VA Disability
+- [Military Disability Made Easy](https://militarydisabilitymadeeasy.com/va-disability.html)
 ## Unlabeled
 - [How to Build the Ultimate Enterprise-Ready Incident Response Playbook | by Adam Goss](https://adamgoss.medium.com/how-to-build-the-ultimate-enterprise-ready-incident-response-playbook-5a0c2a073a9f)
 - [Detection Engineering Metrics Building Blocks | by Gary Katz | Medium](https://medium.com/@gary.j.katz/detection-engineering-metrics-building-blocks-97be4bccf27b)
