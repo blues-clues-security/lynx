@@ -124,6 +124,13 @@ https://github.com/jsecurity101/ETWInspector
 https://www.binarydefense.com/resources/blog/letmeowin-analysis-of-a-credential-dumper/
 https://github.com/ugurkocde/IntuneAssignmentChecker
 https://github.com/tsale/EDR-Telemetry
+https://scorpiosoftware.net/2024/06/01/building-a-verifier-dll/
+- [Web Proxy/Swagger Access/ API Manipulation on Cox Business Portal](https://samcurry.net/hacking-millions-of-modems)
+https://github.com/An0nUD4Y/Evilginx-Phishing-Infra-Setup
+https://www.alteredsecurity.com/post/disabling-tamper-protection-and-other-defender-mde-components
+https://github.com/0xsp-SRD/MDE_Enum
+https://github.com/cube0x0/CVE-2021-1675
+https://github.com/byt3bl33d3r/ItWasAllADream
 
 ## SpecterOps
 - [Hacking With Your Nemesis. In the first post in this series, On… | by Will Schroeder](https://posts.specterops.io/hacking-with-your-nemesis-7861f75fcab4)
@@ -228,6 +235,8 @@ https://center-for-threat-informed-defense.github.io/m3tid/
 - [Windows Thread Pool DLL Proxying](https://fin3ss3g0d.net/index.php/2024/03/18/weaponizing-windows-thread-pool-apis-proxying-dll-loads/)
 https://www.elastic.co/blog/detections-as-code-elastic-security  
 https://learn.microsoft.com/en-us/azure/defender-for-cloud/alerts-reference
+https://github.com/CrowdStrike/VirtualGHOST
+https://purpleteamsec.substack.com/p/detection-as-code?subscribe_prompt=free
 
 
 ## Blog Posts
