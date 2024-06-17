@@ -111,26 +111,27 @@
 - [CVE-2024-24576 (Windows CMD.exe Command Escaping)](https://github.com/brains93/cve-2024-24576-poc-python)
 - [CVE-2024-24576 (Windows CMD.exe Command Escaping) - Video Walkthrough](https://www.youtube.com/watch?v=xjL4pdf7pJ0)
 - [Dump LSASS w/only NTAPIs](https://github.com/ricardojoserf/NativeDump)
-https://posts.specterops.io/bypassing-uac-using-app-paths-9249d8cbe9c9
+- [Bypassing UAC using App Paths. Over the past several months, I’ve… | by Matt Nelson | Posts By SpecterOps Team Members](https://posts.specterops.io/bypassing-uac-using-app-paths-9249d8cbe9c9)
 - [Chrome Website Cache Poisoning PoC](https://github.com/dneprDroid/chrome-poc-demo)
-https://posts.specterops.io/nemesis-1-0-0-8c6b745dc7c5
-https://haymiz.dev/security/2024/04/27/automating-apis-with-postman-workflows/
-https://ghostsecurity.com/resources/blog/introducing-reaper
-https://danaepp.com/writing-api-exploits-in-python
-https://tierzerosecurity.co.nz/2024/04/29/kexecdd.html
-https://medium.com/@clearbluejar/everyday-ghidra-symbols-prescription-lenses-for-reverse-engineers-part-1-d3efe9279a0b
-https://github.com/GJDuck/RRFuzz
-https://github.com/jsecurity101/ETWInspector
-https://www.binarydefense.com/resources/blog/letmeowin-analysis-of-a-credential-dumper/
-https://github.com/ugurkocde/IntuneAssignmentChecker
-https://github.com/tsale/EDR-Telemetry
-https://scorpiosoftware.net/2024/06/01/building-a-verifier-dll/
+- [Nemesis 1.0.0. In August of last year, @tifkin_… | by Will Schroeder | Apr, 2024 | Posts By SpecterOps Team Members](https://posts.specterops.io/nemesis-1-0-0-8c6b745dc7c5)
+- [Automating API Vulnerability Testing Using Postman Workflows – haymiz@kali:~/blog$](https://haymiz.dev/security/2024/04/27/automating-apis-with-postman-workflows/)
+- [Reaper: Workflow-Based Web AppSec Tooling](https://ghostsecurity.com/resources/blog/introducing-reaper)
+- [Writing API exploits in Python](https://danaepp.com/writing-api-exploits-in-python)
+- [LSASS rings KsecDD ext. 0 | Penetration Testing - Red Teaming - Purple Teaming - Security Training | Tier Zero Security, New Zealand](https://tierzerosecurity.co.nz/2024/04/29/kexecdd.html)
+- [Everyday Ghidra: Symbols — Prescription Lenses for Reverse Engineers — Part 1 | by clearbluejar | May, 2024 | Medium](https://medium.com/@clearbluejar/everyday-ghidra-symbols-prescription-lenses-for-reverse-engineers-part-1-d3efe9279a0b)
+- [GitHub - GJDuck/EnvFuzz: Fuzz anything with Program Environment Fuzzing](https://github.com/GJDuck/RRFuzz)
+- [GitHub - jsecurity101/ETWInspector](https://github.com/jsecurity101/ETWInspector)
+- [https://www.binarydefense.com/resources/blog/letmeowin-analysis-of-a-credential-dumper/](https://www.binarydefense.com/resources/blog/letmeowin-analysis-of-a-credential-dumper/)
+- [GitHub - ugurkocde/IntuneAssignmentChecker](https://github.com/ugurkocde/IntuneAssignmentChecker)
+- [GitHub - tsale/EDR-Telemetry: This project aims to compare and evaluate the telemetry of various EDR products.](https://github.com/tsale/EDR-Telemetry)
+- [Building a Verifier DLL – Pavel Yosifovich](https://scorpiosoftware.net/2024/06/01/building-a-verifier-dll/)
 - [Web Proxy/Swagger Access/ API Manipulation on Cox Business Portal](https://samcurry.net/hacking-millions-of-modems)
-https://github.com/An0nUD4Y/Evilginx-Phishing-Infra-Setup
-https://www.alteredsecurity.com/post/disabling-tamper-protection-and-other-defender-mde-components
-https://github.com/0xsp-SRD/MDE_Enum
-https://github.com/cube0x0/CVE-2021-1675
-https://github.com/byt3bl33d3r/ItWasAllADream
+- [GitHub - An0nUD4Y/Evilginx-Phishing-Infra-Setup: Evilginx Phishing Engagement Infrastructure Setup Guide](https://github.com/An0nUD4Y/Evilginx-Phishing-Infra-Setup)
+- [Breaking through Defender's Gates - Disabling Tamper Protection and other Defender components](https://www.alteredsecurity.com/post/disabling-tamper-protection-and-other-defender-mde-components)
+- [GitHub - 0xsp-SRD/MDE_Enum: comprehensive .NET tool designed to extract and display detailed information about Windows Defender exclusions and Attack Surface Reduction (ASR) rules without Admin privileges](https://github.com/0xsp-SRD/MDE_Enum)
+- [GitHub - cube0x0/CVE-2021-1675: C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527](https://github.com/cube0x0/CVE-2021-1675)
+- [GitHub - byt3bl33d3r/ItWasAllADream: A PrintNightmare (CVE-2021-34527) Python Scanner. Scan entire subnets for hosts vulnerable to the PrintNightmare RCE](https://github.com/byt3bl33d3r/ItWasAllADream)
+- [GitHub - vxCrypt0r/Voidgate: A technique that can be used to bypass AV/EDR memory scanners. This can be used to hide well-known and detected shellcodes (such as msfvenom) by performing on-the-fly decryption of individual encrypted assembly instructions, thus rendering memory scanners useless for that specific memory page.](https://github.com/vxCrypt0r/Voidgate)
 
 ## SpecterOps
 - [Hacking With Your Nemesis. In the first post in this series, On… | by Will Schroeder](https://posts.specterops.io/hacking-with-your-nemesis-7861f75fcab4)
@@ -139,7 +140,7 @@ https://github.com/byt3bl33d3r/ItWasAllADream
 - [Ready to hunt? First, Show me your data!](https://posts.specterops.io/ready-to-hunt-first-show-me-your-data-a642c6b170d6)
 - [On Detection: From Tactical to Functional | by Jared Atkinson](https://medium.com/specter-ops-posts/on-detection-from-tactical-to-functional-1349e51e1a03)
 - [The Defender’s Guide to the Windows Registry](https://posts.specterops.io/the-defenders-guide-to-the-windows-registry-febe241abc75)
-https://posts.specterops.io/behavior-vs-execution-modality-3318e8e81739
+- [Part 12: Behavior vs. Execution Modality | by Jared Atkinson | May, 2024 | Posts By SpecterOps Team Members](https://posts.specterops.io/behavior-vs-execution-modality-3318e8e81739)
 
 ## SOAR/C2 Frameworks
 - [A Simple SOAR Adoption Maturity Model | by Anton Chuvakin | Anton on Security | Medium](https://medium.com/anton-on-security/crosspost-a-simple-soar-adoption-maturity-model-dacf61ae857b)
@@ -228,15 +229,15 @@ https://posts.specterops.io/behavior-vs-execution-modality-3318e8e81739
 - [On Detection: Tactical to Functional | by Jared Atkinson | Posts By SpecterOps Team Members](https://posts.specterops.io/on-detection-tactical-to-functional-a3a0a5c4d566)
 - [Writing Better Alert Names - How to win hearts of SOC Analysts | archbishopsec](https://archbishop.io/posts/alert-names-that-dont-suck/)
 - [EPP vs EDR vs XDR: Endpoint Security Comparison | by AltexSoft Inc | Medium](https://altexsoft.medium.com/epp-vs-edr-vs-xdr-endpoint-security-comparison-57409987f65e)
-https://medium.com/mitre-engenuity/measure-maximize-mature-your-threat-informed-defense-64a51c2a869b#proof-of-concept-assessment-tool
-https://github.com/center-for-threat-informed-defense/m3tid/tree/main
-https://center-for-threat-informed-defense.github.io/m3tid/
+- [What is threat informed defense and how can you advance it? | MITRE-Engenuity](https://medium.com/mitre-engenuity/measure-maximize-mature-your-threat-informed-defense-64a51c2a869b)#proof-of-concept-assessment-tool
+- [center-for-threat-informed-defense/m3tid: The Measure, Maximize, and Mature Threat-Informed Defense (M3TID)](https://github.com/center-for-threat-informed-defense/m3tid/tree/main)
+- [Measure, Maximize, and Mature Threat-Informed Defense v1.0.0 — Measure, Maximize, Mature Threat-Informed Defense v1.0.0 documentation](https://center-for-threat-informed-defense.github.io/m3tid/)
 - [EvilGoPhish Update Walkthrough](https://fin3ss3g0d.net/index.php/2024/04/08/evilgophishs-approach-to-advanced-bot-detection-with-cloudflare-turnstile/)
 - [Windows Thread Pool DLL Proxying](https://fin3ss3g0d.net/index.php/2024/03/18/weaponizing-windows-thread-pool-apis-proxying-dll-loads/)
-https://www.elastic.co/blog/detections-as-code-elastic-security  
-https://learn.microsoft.com/en-us/azure/defender-for-cloud/alerts-reference
-https://github.com/CrowdStrike/VirtualGHOST
-https://purpleteamsec.substack.com/p/detection-as-code?subscribe_prompt=free
+- [Transform security with Elastic's Detections as Code — Adopting DaC made easy | Elastic Blog](https://www.elastic.co/blog/detections-as-code-elastic-security)  
+- [Reference table for all security alerts - Microsoft Defender for Cloud | Microsoft Learn](https://learn.microsoft.com/en-us/azure/defender-for-cloud/alerts-reference)
+- [GitHub - CrowdStrike/VirtualGHOST: VirtualGHOST Detection Tool](https://github.com/CrowdStrike/VirtualGHOST)
+- [Detection as Code - by Panagiotis Gkatziroulis](https://purpleteamsec.substack.com/p/detection-as-code?subscribe_prompt=free)
 
 
 ## Blog Posts
@@ -377,7 +378,7 @@ Title: Compromise Assessments: Threat Hunting on a Desert Island
 - [10 Apps For Your Homelab In 2022 | Level Up Coding](https://levelup.gitconnected.com/10-apps-for-your-homelab-in-2022-867957bc9b2f)
 - [Setting up homelab 3.0. Start of my journey in spinning up the… | by tjtharrison | Medium](https://tjtharrison.medium.com/setting-up-homelab-3-0-8624060adf2f)
 - [So you want to do some logging. . . (PT. 1 Setup) | by HanSolo71 | Medium](https://blog.iso365down.com/so-you-want-to-do-some-logging-pt-1-setup-ed319422d331)
-https://docs.ludus.cloud/docs/quick-start/install-ludus
+- [Install Ludus | Ludus](https://docs.ludus.cloud/docs/quick-start/install-ludus)
 
 ## Darkweb/ TOR Browsing
 - [Creating Darkweb Crawler using Python and Tor | by CyberSec_Sai | InfoSec Write-ups](https://infosecwriteups.com/creating-darkweb-crawler-using-python-and-tor-53169d146301)
