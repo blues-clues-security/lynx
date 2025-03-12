@@ -18,6 +18,10 @@
 - [How to Use Taipy and Taipy GUI in Python Applications | by Eric Narro | Better Programming](https://betterprogramming.pub/discovering-taipy-and-taipy-gui-e1b664765017)
 - [PyScript | Run Python in your HTML](https://pyscript.net/)
 - [How To Print() In Color in Python Without External Libraries | by Liu Zuo Lin | Level Up Coding](https://levelup.gitconnected.com/how-to-print-in-color-in-python-without-external-libraries-db6e15e5c03c)
+https://github.com/homeport/termshot
+https://carbon.now.sh/
+https://github.com/jordansissel/fpm
+https://github.com/NationalSecurityAgency/ghidra/tree/master/Ghidra/Features/PyGhidra/src/main/py
 
 ## Rust
 - [How to Write Your First Rust Program Quickly | by osintalex | Medium](https://medium.com/@alexanderdarby/how-to-write-your-first-rust-program-quickly-1a093f56f074)
@@ -82,7 +86,9 @@
 - [Applying LLMs to Threat Intelligence | by Thomas Roccia | SecurityBreak](https://blog.securitybreak.io/applying-llms-to-threat-intelligence-f3b8ba4463a4)
 - [Personal CTI Aggregator](https://feedly.com/i/my)
 - [Prioritising Security Vulnerabilities with EPSS | ITNEXT](https://itnext.io/prioritising-vulnerabilities-remedial-actions-at-scale-with-epss-23bb60d614d9)
-
+https://github.com/dazzyddos/AmsiScanner
+https://github.com/CyberCX-STA/PurpleOps?tab=readme-ov-file#kali
+https://medium.com/@philiphristoff/cyber-threat-intelligence-cti-a-clear-process-for-data-ingestion-and-distribution-1889f6a2c5a8
 
 ## Threat/Malware PoCs/ Red Team
 - [Data Exfiltration using ICMP (and how to detect it) | by SOCFortress](https://socfortress.medium.com/data-exfiltration-using-icmp-and-how-to-detect-it-69a799cca234)
@@ -132,6 +138,47 @@
 - [GitHub - cube0x0/CVE-2021-1675: C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527](https://github.com/cube0x0/CVE-2021-1675)
 - [GitHub - byt3bl33d3r/ItWasAllADream: A PrintNightmare (CVE-2021-34527) Python Scanner. Scan entire subnets for hosts vulnerable to the PrintNightmare RCE](https://github.com/byt3bl33d3r/ItWasAllADream)
 - [GitHub - vxCrypt0r/Voidgate: A technique that can be used to bypass AV/EDR memory scanners. This can be used to hide well-known and detected shellcodes (such as msfvenom) by performing on-the-fly decryption of individual encrypted assembly instructions, thus rendering memory scanners useless for that specific memory page.](https://github.com/vxCrypt0r/Voidgate)
+https://github.com/Flangvik/QRucible
+https://www.guidepointsecurity.com/blog/sccm-exploitation-evading-defenses-and-moving-laterally-with-sccm-application-deployment/
+https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/excobalt-gored-the-hidden-tunnel-technique/
+https://github.com/dazzyddos/HSC24RedTeamInfra
+https://github.com/dazzyddos/HSC24RedTeamInfra/tree/main
+https://www.3nailsinfosec.com/post/edrprison-borrow-a-legitimate-driver-to-mute-edr-agent
+https://naksyn.com/cobalt%20strike/2024/07/02/raising-beacons-without-UDRLs-teaching-how-to-sleep.html
+https://www.splunk.com/en_us/blog/security/cve-2024-6387-regresshion-vulnerability.html
+https://revflash.medium.com/its-morphin-time-self-modifying-code-sections-with-writeprocessmemory-for-edr-evasion-9bf9e7b7dced
+https://github.com/TracecatHQ/tracecat/tree/0.2.0
+https://spaceraccoon.dev/universal-code-execution-browser-extensions/
+https://github.com/REDMED-X/OperatorsKit
+https://github.com/fortra/No-Consolation
+https://google.github.io/osv.dev/
+https://osv.dev/#use-vulnerability-scanner
+https://github.com/elder-plinius/L1B3RT45
+https://x33fcon.com/slides/x33fcon24_-_Nick_Powers_-_Relay_Your_Heart_Away_An_OPSEC-Conscious_Approach_to_445_Takeover.pdf
+https://github.com/subat0mik/Misconfiguration-Manager
+https://github.com/xiaolichan/wmiexec-Pro
+https://posts.specterops.io/deep-sea-phishing-pt-1-092a0637e2fd
+https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Dbg1102_IntroGhidra+2024_v2/about
+https://www.intrinsec.com/kerberos_opsec_part_2_as_rep-roasting/?cn-reloaded=1
+https://github.com/EdOverflow/can-i-take-over-xyz
+https://www.intrinsec.com/kerberos_opsec_part_2_as_rep-roasting/?cn-reloaded=1
+https://github.com/badsectorlabs/sccm-http-looter
+https://github.com/projectdiscovery/tldfinder
+https://cloud.google.com/blog/topics/threat-intelligence/enumerating-private-tlds
+https://www.synacktiv.com/publications/sccmsecretspy-exploiting-sccm-policies-distribution-for-credentials-harvesting-initial
+https://github.com/helviojunior/hookchain/
+https://pentestlab.blog/2024/08/20/web-browser-stored-credentials/
+https://www.traceable.ai/blog-post/how-1-exposed-honeywell-api-gave-us-control-over-an-internal-engineering-system
+https://github.com/Malcrove/SeamlessPass
+https://github.com/BloodHoundAD/BARK
+https://github.com/pushsecurity/saas-attacks
+https://github.com/jivoi/awesome-osint
+https://github.com/SafeBreach-Labs/CVE-2024-49113
+https://github.com/Maldev-Academy/ExecutePeFromPngViaLNK/blob/main/InsertPeIntoPng.py
+https://infosecwriteups.com/idrac-to-domain-admin-4acb89391070
+https://www.safebreach.com/blog/ldapnightmare-safebreach-labs-publishes-first-proof-of-concept-exploit-for-cve-2024-49113/
+https://github.com/praetorian-inc/noseyparker
+https://github.com/SpecterOps/bloodhound-cli
 
 ## SpecterOps
 - [Hacking With Your Nemesis. In the first post in this series, On… | by Will Schroeder](https://posts.specterops.io/hacking-with-your-nemesis-7861f75fcab4)
@@ -238,7 +285,11 @@
 - [Reference table for all security alerts - Microsoft Defender for Cloud | Microsoft Learn](https://learn.microsoft.com/en-us/azure/defender-for-cloud/alerts-reference)
 - [GitHub - CrowdStrike/VirtualGHOST: VirtualGHOST Detection Tool](https://github.com/CrowdStrike/VirtualGHOST)
 - [Detection as Code - by Panagiotis Gkatziroulis](https://purpleteamsec.substack.com/p/detection-as-code?subscribe_prompt=free)
-
+https://posts.specterops.io/deconstructing-logon-session-enumeration-0426b8452ef5
+https://github.com/H4NM/WhoYouCalling
+https://isaacdunham.github.io/posts/intro-detection-engineering-sigma/
+https://unit42.paloaltonetworks.com/lightweight-directory-access-protocol-based-attacks/
+https://posts.specterops.io/adfs-living-in-the-legacy-of-drs-c11f9b371811
 
 ## Blog Posts
 ### OrbitLink
@@ -247,6 +298,13 @@
 
 ### Compromise Assessments
 Title: Compromise Assessments: Threat Hunting on a Desert Island
+
+### Domain Pirate
+https://blog.blacklanternsecurity.com/p/subdomain-enumeration-tool-face-off
+https://projectdiscovery.io/blog/recon-series-2
+https://systemweakness.com/automation-of-the-reconnaissance-phase-during-web-application-penetration-testing-i-574fd9dce53e
+https://arxiv.org/abs/1710.01026
+https://arxiv.org/abs/2411.01236
 
 ## KB's
 - [.NET Framework & Windows OS versions - .NET Framework | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/framework/migration-guide/versions-and-dependencies)
@@ -379,6 +437,14 @@ Title: Compromise Assessments: Threat Hunting on a Desert Island
 - [Setting up homelab 3.0. Start of my journey in spinning up the… | by tjtharrison | Medium](https://tjtharrison.medium.com/setting-up-homelab-3-0-8624060adf2f)
 - [So you want to do some logging. . . (PT. 1 Setup) | by HanSolo71 | Medium](https://blog.iso365down.com/so-you-want-to-do-some-logging-pt-1-setup-ed319422d331)
 - [Install Ludus | Ludus](https://docs.ludus.cloud/docs/quick-start/install-ludus)
+https://github.com/DXC-StrikeForce/Nemesis-Ansible
+https://github.com/dazzyddos/dazzyddos.github.io
+https://github.com/jeFF0Falltrades/Tutorials/tree/master/master0Fnone_classes/2_Sandbox_in_a_Box
+https://old.reddit.com/r/homelab/comments/1ehkwrc/my_allinone_home_server_gaming_arr_pihole_nas/
+https://old.reddit.com/r/homeassistant/comments/1ela4k8/creating_a_floor_olan_dashboard_is_easy_now/
+https://github.com/mvelazc0/BadZure
+https://github.com/An0nUD4Y/AV-EDR-Lab-Environment-Setup
+https://github.com/VirtualSamuraii/flyphish
 
 ## Darkweb/ TOR Browsing
 - [Creating Darkweb Crawler using Python and Tor | by CyberSec_Sai | InfoSec Write-ups](https://infosecwriteups.com/creating-darkweb-crawler-using-python-and-tor-53169d146301)
@@ -399,12 +465,14 @@ Title: Compromise Assessments: Threat Hunting on a Desert Island
 - [https://app.hopin.com/events/vetseccon-23/replay/](https://app.hopin.com/events/vetseccon-23/replay/)
 - [Interview Warmup - Grow with Google](https://grow.google/certificates/interview-warmup/category/cybersecurity/)
 - [An engineer who landed a $300,000 job at Google shares the résumé that got him in the door — and 3 things he'd change on it today](https://www.businessinsider.com/resume-tips-google-software-engineer-skills-experience-careers-software-tech-2024-3?amp)
+https://faang.watch/?categories=Cybersecurity
 
 ## Skillbridge
 - [Skillbridge Training Plan Template](https://docs.google.com/document/u/0/d/1KWf2GIpGcRB02aFz0N8ZNSyI03FCD0qp8mVzAu-DiEY)
 
 ## VA Disability
 - [Military Disability Made Easy](https://militarydisabilitymadeeasy.com/va-disability.html)
+
 ## Unlabeled
 - [How to Build the Ultimate Enterprise-Ready Incident Response Playbook | by Adam Goss](https://adamgoss.medium.com/how-to-build-the-ultimate-enterprise-ready-incident-response-playbook-5a0c2a073a9f)
 - [Detection Engineering Metrics Building Blocks | by Gary Katz | Medium](https://medium.com/@gary.j.katz/detection-engineering-metrics-building-blocks-97be4bccf27b)
